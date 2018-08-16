@@ -1,0 +1,5 @@
+<map id="fwup_msg_s" name="fwup_msg_s">
+<area shape="rect" id="node2" href="$structfwup__msg__sync__param__s.html" title="fwup_msg_sync_param_s" alt="" coords="5,96,179,123"/>
+<area shape="rect" id="node3" href="$structsem__s.html" title="sem_s" alt="" coords="61,5,123,32"/>
+<area shape="rect" id="node4" href="$structfwup__msg__dl__param__s.html" title="fwup_msg_dl_param_s" alt="" coords="203,96,359,123"/>
+</map>

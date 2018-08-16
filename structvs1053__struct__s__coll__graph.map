@@ -1,0 +1,8 @@
+<map id="vs1053_struct_s" name="vs1053_struct_s">
+<area shape="rect" id="node2" href="$structsem__s.html" title="sem_s" alt="" coords="5,112,67,139"/>
+<area shape="rect" id="node3" href="$structdq__queue__s.html" title="dq_queue_s" alt="" coords="91,112,183,139"/>
+<area shape="rect" id="node4" href="$structdq__entry__s.html" title="dq_entry_s" alt="" coords="94,7,180,33"/>
+<area shape="rect" id="node5" href="$structvs1053__lower__s.html" title="vs1053_lower_s" alt="" coords="207,112,323,139"/>
+<area shape="rect" id="node6" href="$structspi__dev__s.html" title="spi_dev_s" alt="" coords="347,112,428,139"/>
+<area shape="rect" id="node7" href="$structspi__ops__s.html" title="spi_ops_s" alt="" coords="347,7,428,33"/>
+</map>

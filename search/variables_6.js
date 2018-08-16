@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['gain',['gain',['../structadjust__s.html#ab986a2fc9fc3bfbe3fd3c4960e104a7a',1,'adjust_s']]],
+  ['gd_5fpvt_5freceiver_5fextra_5fdata',['GD_PVT_RECEIVER_EXTRA_DATA',['../structGD__PVT__RECEIVER.html#af226cd536ed356b54c4461300043f894',1,'GD_PVT_RECEIVER']]],
+  ['gd_5fpvt_5fsv_5fextra_5fdata',['GD_PVT_SV_EXTRA_DATA',['../structGD__PVT__SV.html#ad2802de59a3e2afac9f13e8fadb243b0',1,'GD_PVT_SV']]],
+  ['geoid',['geoid',['../structcxd56__gnss__receiver__s.html#a237d531277c90c750e9f01c0eb5cf408',1,'cxd56_gnss_receiver_s']]],
+  ['getreadcmdfxid',['getReadCmdFxId',['../structSPIFI__DEVICE__DATA.html#a5a97cd2b67feff22bfde83ce2ef17463',1,'SPIFI_DEVICE_DATA']]],
+  ['getstatus',['getStatus',['../structSPIFI__FAM__FX.html#aa06c15274728b0e17debfd2ce49a5b45',1,'SPIFI_FAM_FX']]],
+  ['getstatusfxid',['getStatusFxId',['../structSPIFI__DEVICE__DATA.html#a54dc73022b7687d66b828b2185c096df',1,'SPIFI_DEVICE_DATA']]],
+  ['getwritecmdfxid',['getWriteCmdFxId',['../structSPIFI__DEVICE__DATA.html#a464d7da83c96626967cf81dc21361cea',1,'SPIFI_DEVICE_DATA']]],
+  ['gn',['gn',['../structcxd56__rtk__glonassephemeris__s.html#a66d44bcaf0ca3d75594696725b820911',1,'cxd56_rtk_glonassephemeris_s::gn()'],['../structGD__EPH__GLN.html#ae274a2407cfa08f800bf3e4894db6575',1,'GD_EPH_GLN::gn()']]],
+  ['gnss',['gnss',['../structcxd56__rtk__setting__s.html#affd5817ac05ad22efa78258c3ea132d4',1,'cxd56_rtk_setting_s::gnss()'],['../structcxd56__rtk__sv__s.html#a77dfc1b26125a3ec12203b7d2acae90a',1,'cxd56_rtk_sv_s::gnss()'],['../structcxd56__gnss__rtk__setting.html#acf57a5848ec99b88aed140525a42ab28',1,'cxd56_gnss_rtk_setting::gnss()'],['../structGD__RTK__SV.html#a780104b9244d56f013d32548fcdc4d50',1,'GD_RTK_SV::gnss()']]],
+  ['gnssid',['gnssid',['../structcxd56__supl__trkdata__s.html#aa7d1fb88d2ff779eed6b068a6b2cb792',1,'cxd56_supl_trkdata_s::gnssid()'],['../structGD__SUPL__TRK__DATA.html#a8e160bec0204d6cf85606e23b22b4e4c',1,'GD_SUPL_TRK_DATA::gnssId()']]],
+  ['gnsssig',['gnsssig',['../structcxd56__gnss__signal__setting__s.html#a8905fa892bd271c13c86aa38f140a260',1,'cxd56_gnss_signal_setting_s::gnsssig()'],['../structcxd56__gnss__signal__info__s.html#aac910e102fc6eadc907d484c46bef7ec',1,'cxd56_gnss_signal_info_s::gnsssig()'],['../structcxd56__gnss__signal__setting.html#ab2224a1fa1df47f62ec46c1bd866b337',1,'cxd56_gnss_signal_setting::gnsssig()'],['../structcxd56__gnss__signal__info.html#ac42378039145bece6bece4aa437a2cb3',1,'cxd56_gnss_signal_info::gnsssig()']]],
+  ['gpsdate',['gpsdate',['../structcxd56__gnss__receiver__s.html#a9d52c6099af6676feb454f12581cc8a5',1,'cxd56_gnss_receiver_s::gpsdate()'],['../structGD__PVT__RECEIVER.html#adabd560fe15e6425c3c0f243542744f1',1,'GD_PVT_RECEIVER::gpsDate()']]],
+  ['gpstime',['gpstime',['../structcxd56__gnss__receiver__s.html#ab6c8021a20f4184fc23458141cc43980',1,'cxd56_gnss_receiver_s::gpstime()'],['../structGD__PVT__RECEIVER.html#a14dd0118a558237f65b3475c3ac64fb8',1,'GD_PVT_RECEIVER::gpsTime()']]],
+  ['gpstow',['gpstow',['../structcxd56__gnss__sbasdata__s.html#a9cc8ca86417a292182d371c10830ced4',1,'cxd56_gnss_sbasdata_s']]],
+  ['gpswn',['gpswn',['../structcxd56__gnss__sbasdata__s.html#a37ff8b39689534f5a6e7a513d7f94fb5',1,'cxd56_gnss_sbasdata_s']]]
+];

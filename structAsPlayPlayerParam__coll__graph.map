@@ -1,0 +1,7 @@
+<map id="AsPlayPlayerParam" name="AsPlayPlayerParam">
+<area shape="rect" id="node2" href="$unionAsPcmDataDest.html" title="AsPcmDataDest" alt="" coords="170,387,291,413"/>
+<area shape="rect" id="node3" href="$structAsPcmDataParam.html" title="AsPcmDataParam" alt="" coords="41,288,171,315"/>
+<area shape="rect" id="node4" href="$classMemMgrLite_1_1MemHandle.html" title="Memory Handler Class for &quot;Memory Manager Lite&quot;. This is only wrapper class for convert project&#45;specif..." alt="" coords="21,189,192,216"/>
+<area shape="rect" id="node5" href="$classMemMgrLite_1_1MemHandleBase.html" title="Memory Handler Base Class for Memory Handler Base Class. This class`s methods can called only from Me..." alt="" coords="5,112,208,139"/>
+<area shape="rect" id="node7" href="$structAsPcmDataDest_1_1____st__pcm__msg.html" title="[in] Decoded PCM notify message " alt="" coords="196,281,349,322"/>
+</map>

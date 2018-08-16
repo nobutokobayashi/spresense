@@ -1,0 +1,16 @@
+<map id="PlayerCommand" name="PlayerCommand">
+<area shape="rect" id="node2" href="$structAsDeactivatePlayer.html" title="AsDeactivatePlayer" alt="" coords="1451,5,1589,32"/>
+<area shape="rect" id="node3" href="$structAsPlayPlayerParam.html" title="AsPlayPlayerParam" alt="" coords="1451,56,1589,83"/>
+<area shape="rect" id="node4" href="$unionAsPcmDataDest.html" title="AsPcmDataDest" alt="" coords="1191,56,1313,83"/>
+<area shape="rect" id="node5" href="$structAsPcmDataParam.html" title="AsPcmDataParam" alt="" coords="871,20,1001,47"/>
+<area shape="rect" id="node6" href="$classMemMgrLite_1_1MemHandle.html" title="Memory Handler Class for &quot;Memory Manager Lite&quot;. This is only wrapper class for convert project&#45;specif..." alt="" coords="582,20,754,47"/>
+<area shape="rect" id="node7" href="$classMemMgrLite_1_1MemHandleBase.html" title="Memory Handler Base Class for Memory Handler Base Class. This class`s methods can called only from Me..." alt="" coords="328,20,531,47"/>
+<area shape="rect" id="node9" href="$structAsPcmDataDest_1_1____st__pcm__msg.html" title="[in] Decoded PCM notify message " alt="" coords="859,71,1013,113"/>
+<area shape="rect" id="node10" href="$structAsRequestNextParam.html" title="AsRequestNextParam" alt="" coords="1443,107,1597,133"/>
+<area shape="rect" id="node11" href="$structAsInitPlayerParam.html" title="AsInitPlayerParam" alt="" coords="1455,157,1585,184"/>
+<area shape="rect" id="node12" href="$structAsSetGainParam.html" title="AsSetGainParam" alt="" coords="1459,208,1581,235"/>
+<area shape="rect" id="node13" href="$structAsStopPlayerParam.html" title="AsStopPlayerParam" alt="" coords="1450,259,1590,285"/>
+<area shape="rect" id="node14" href="$structAsActivatePlayer.html" title="AsActivatePlayer" alt="" coords="1459,309,1581,336"/>
+<area shape="rect" id="node15" href="$structAsActivatePlayerParam.html" title="AsActivatePlayerParam" alt="" coords="1171,309,1333,336"/>
+<area shape="rect" id="node16" href="$structAsPlayerInputDeviceHdlrForRAM.html" title="AsPlayerInputDeviceHdlrForRAM" alt="" coords="827,309,1045,336"/>
+</map>

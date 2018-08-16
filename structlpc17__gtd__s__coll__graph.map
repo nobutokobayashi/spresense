@@ -1,0 +1,7 @@
+<map id="lpc17_gtd_s" name="lpc17_gtd_s">
+<area shape="rect" id="node2" href="$structohci__gtd__s.html" title="ohci_gtd_s" alt="" coords="5,96,91,123"/>
+<area shape="rect" id="node3" href="$structlpc17__ed__s.html" title="lpc17_ed_s" alt="" coords="115,96,203,123"/>
+<area shape="rect" id="node4" href="$structsem__s.html" title="sem_s" alt="" coords="32,5,93,32"/>
+<area shape="rect" id="node5" href="$structohci__ed__s.html" title="ohci_ed_s" alt="" coords="118,5,199,32"/>
+<area shape="rect" id="node6" href="$structlpc17__xfrinfo__s.html" title="lpc17_xfrinfo_s" alt="" coords="223,5,333,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fusb301_dev_s" name="fusb301_dev_s">
+<area shape="rect" id="node2" href="$structi2c__master__s.html" title="i2c_master_s" alt="" coords="5,96,104,123"/>
+<area shape="rect" id="node3" href="$structi2c__ops__s.html" title="i2c_ops_s" alt="" coords="14,5,95,32"/>
+<area shape="rect" id="node4" href="$structfusb301__config__s.html" title="fusb301_config_s" alt="" coords="129,96,252,123"/>
+<area shape="rect" id="node5" href="$structsem__s.html" title="sem_s" alt="" coords="307,5,368,32"/>
+<area shape="rect" id="node6" href="$structpollfd.html" title="pollfd" alt="" coords="376,96,429,123"/>
+</map>

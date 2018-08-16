@@ -1,0 +1,6 @@
+<map id="sdk/modules/audio/dma_controller" name="sdk/modules/audio/dma_controller">
+<area shape="rect" id="node1" href="dir_b6b5ddae4ff1af6a24ccc94bfaa59476.html" title="dma_controller" alt="" coords="27,52,133,100"/>
+<area shape="rect" id="node2" href="dir_d7dc6eb8b834e0b31dd0c1698b33f8e0.html" title="include" alt="" coords="44,148,116,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000982_000196.html" title="1" alt="" coords="84,122,92,137"/>
+<area shape="rect" id="clust1" href="dir_2cf869417d3199705449858c02fd96d7.html" title="audio" alt="" coords="16,16,144,111"/>
+</map>

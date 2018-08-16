@@ -1,0 +1,6 @@
+<map id="btn_open_s" name="btn_open_s">
+<area shape="rect" id="node2" href="$structbtn__notify__s.html" title="btn_notify_s" alt="" coords="5,96,99,123"/>
+<area shape="rect" id="node3" href="$structpollfd.html" title="pollfd" alt="" coords="123,96,176,123"/>
+<area shape="rect" id="node4" href="$structsem__s.html" title="sem_s" alt="" coords="119,5,180,32"/>
+<area shape="rect" id="node5" href="$structbtn__pollevents__s.html" title="btn_pollevents_s" alt="" coords="200,96,320,123"/>
+</map>

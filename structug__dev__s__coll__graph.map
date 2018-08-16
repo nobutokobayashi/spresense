@@ -1,0 +1,5 @@
+<map id="ug_dev_s" name="ug_dev_s">
+<area shape="rect" id="node2" href="$structlcd__dev__s.html" title="lcd_dev_s" alt="" coords="5,96,85,123"/>
+<area shape="rect" id="node3" href="$structspi__dev__s.html" title="spi_dev_s" alt="" coords="110,96,191,123"/>
+<area shape="rect" id="node4" href="$structspi__ops__s.html" title="spi_ops_s" alt="" coords="110,5,191,32"/>
+</map>

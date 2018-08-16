@@ -1,0 +1,6 @@
+<map id="player_info_s" name="player_info_s">
+<area shape="rect" id="node2" href="$structplayer__file__info__s.html" title="player_file_info_s" alt="" coords="13,96,136,123"/>
+<area shape="rect" id="node3" href="$structplayer__fifo__info__s.html" title="player_fifo_info_s" alt="" coords="161,96,284,123"/>
+<area shape="rect" id="node4" href="$structAsPlayerInputDeviceHdlrForRAM.html" title="AsPlayerInputDeviceHdlrForRAM" alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node5" href="$structCMN__SimpleFifoHandle.html" title="FIFO handle which holds data required to manipulate FIFO. " alt="" coords="248,5,411,32"/>
+</map>

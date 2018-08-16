@@ -1,0 +1,6 @@
+<map id="stm32_dma2d_s" name="stm32_dma2d_s">
+<area shape="rect" id="node2" href="$structdma2d__layer__s.html" title="dma2d_layer_s" alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node3" href="$structfb__videoinfo__s.html" title="fb_videoinfo_s" alt="" coords="140,5,247,32"/>
+<area shape="rect" id="node4" href="$structsem__s.html" title="sem_s" alt="" coords="271,5,332,32"/>
+<area shape="rect" id="node5" href="$structfb__planeinfo__s.html" title="fb_planeinfo_s" alt="" coords="356,5,463,32"/>
+</map>

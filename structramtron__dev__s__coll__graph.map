@@ -1,0 +1,6 @@
+<map id="ramtron_dev_s" name="ramtron_dev_s">
+<area shape="rect" id="node2" href="$structramtron__parts__s.html" title="ramtron_parts_s" alt="" coords="5,96,120,123"/>
+<area shape="rect" id="node3" href="$structmtd__dev__s.html" title="mtd_dev_s" alt="" coords="145,96,231,123"/>
+<area shape="rect" id="node4" href="$structspi__dev__s.html" title="spi_dev_s" alt="" coords="255,96,336,123"/>
+<area shape="rect" id="node5" href="$structspi__ops__s.html" title="spi_ops_s" alt="" coords="255,5,336,32"/>
+</map>

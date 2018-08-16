@@ -1,0 +1,9 @@
+<map id="nxtk_framedwindow_s" name="nxtk_framedwindow_s">
+<area shape="rect" id="node2" href="$structnxgl__point__s.html" title="nxgl_point_s" alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node3" href="$structnxgl__rect__s.html" title="nxgl_rect_s" alt="" coords="59,109,148,136"/>
+<area shape="rect" id="node4" href="$structnxbe__window__s.html" title="nxbe_window_s" alt="" coords="233,201,348,228"/>
+<area shape="rect" id="node5" href="$structnxbe__state__s.html" title="nxbe_state_s" alt="" coords="377,307,476,333"/>
+<area shape="rect" id="node6" href="$structfb__videoinfo__s.html" title="fb_videoinfo_s" alt="" coords="436,201,543,228"/>
+<area shape="rect" id="node7" href="$structnxbe__plane__s.html" title="nxbe_plane_s" alt="" coords="567,201,669,228"/>
+<area shape="rect" id="node8" href="$structnx__callback__s.html" title="nx_callback_s" alt="" coords="191,109,296,136"/>
+</map>

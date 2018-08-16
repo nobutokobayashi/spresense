@@ -1,0 +1,5 @@
+<map id="pn532_dev_s" name="pn532_dev_s">
+<area shape="rect" id="node2" href="$structpn532__config__s.html" title="pn532_config_s" alt="" coords="5,96,117,123"/>
+<area shape="rect" id="node3" href="$structspi__dev__s.html" title="spi_dev_s" alt="" coords="142,96,223,123"/>
+<area shape="rect" id="node4" href="$structspi__ops__s.html" title="spi_ops_s" alt="" coords="142,5,223,32"/>
+</map>

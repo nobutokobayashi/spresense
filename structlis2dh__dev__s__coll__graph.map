@@ -1,0 +1,9 @@
+<map id="lis2dh_dev_s" name="lis2dh_dev_s">
+<area shape="rect" id="node2" href="$structlis2dh__setup.html" title="lis2dh_setup" alt="" coords="5,96,99,123"/>
+<area shape="rect" id="node3" href="$structi2c__master__s.html" title="i2c_master_s" alt="" coords="123,96,223,123"/>
+<area shape="rect" id="node4" href="$structi2c__ops__s.html" title="i2c_ops_s" alt="" coords="133,5,213,32"/>
+<area shape="rect" id="node5" href="$structsem__s.html" title="sem_s" alt="" coords="277,5,339,32"/>
+<area shape="rect" id="node8" href="$structpollfd.html" title="pollfd" alt="" coords="347,96,400,123"/>
+<area shape="rect" id="node6" href="$structlis2dh__vector__s.html" title="lis2dh_vector_s" alt="" coords="425,96,537,123"/>
+<area shape="rect" id="node7" href="$structlis2dh__config__s.html" title="lis2dh_config_s" alt="" coords="563,96,673,123"/>
+</map>

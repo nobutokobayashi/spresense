@@ -1,0 +1,6 @@
+<map id="djoy_open_s" name="djoy_open_s">
+<area shape="rect" id="node2" href="$structdjoy__pollevents__s.html" title="djoy_pollevents_s" alt="" coords="5,96,131,123"/>
+<area shape="rect" id="node3" href="$structpollfd.html" title="pollfd" alt="" coords="156,96,209,123"/>
+<area shape="rect" id="node4" href="$structsem__s.html" title="sem_s" alt="" coords="152,5,213,32"/>
+<area shape="rect" id="node5" href="$structdjoy__notify__s.html" title="djoy_notify_s" alt="" coords="233,96,332,123"/>
+</map>

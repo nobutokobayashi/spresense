@@ -1,0 +1,4 @@
+<map id="nr5_uart_s" name="nr5_uart_s">
+<area shape="rect" id="node2" href="$structnr5__uart__buffer__s.html" title="nr5_uart_buffer_s" alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node3" href="$structnr5__uart__regs__s.html" title="nr5_uart_regs_s" alt="" coords="152,5,267,32"/>
+</map>

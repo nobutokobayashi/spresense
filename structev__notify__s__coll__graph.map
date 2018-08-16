@@ -1,0 +1,5 @@
+<map id="ev_notify_s" name="ev_notify_s">
+<area shape="rect" id="node2" href="$structscufifo__s.html" title="scufifo_s" alt="" coords="4,96,77,123"/>
+<area shape="rect" id="node3" href="$structscuev__arg__s.html" title="scuev_arg_s" alt="" coords="103,96,199,123"/>
+<area shape="rect" id="node4" href="$structscutimestamp__s.html" title="scutimestamp_s" alt="" coords="91,5,209,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rpc_call_umount" name="rpc_call_umount">
+<area shape="rect" id="node2" href="$structrpc__call__header.html" title="rpc_call_header" alt="" coords="5,109,117,136"/>
+<area shape="rect" id="node3" href="$structrpc__auth__info.html" title="rpc_auth_info" alt="" coords="11,5,111,32"/>
+<area shape="rect" id="node4" href="$structcall__args__umount.html" title="call_args_umount" alt="" coords="142,109,265,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="avr_ep_s" name="avr_ep_s">
+<area shape="rect" id="node2" href="$structavr__req__s.html" title="avr_req_s" alt="" coords="5,147,83,173"/>
+<area shape="rect" id="node3" href="$structusbdev__req__s.html" title="usbdev_req_s" alt="" coords="45,5,147,32"/>
+<area shape="rect" id="node5" href="$structusbdev__epops__s.html" title="usbdev_epops_s" alt="" coords="101,96,221,123"/>
+<area shape="rect" id="node4" href="$structusbdev__ep__s.html" title="usbdev_ep_s" alt="" coords="117,207,216,233"/>
+</map>

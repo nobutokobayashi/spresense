@@ -1,0 +1,5 @@
+<map id="wl_assoc_info" name="wl_assoc_info">
+<area shape="rect" id="node2" href="$structether__addr.html" title="ether_addr" alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node3" href="$structwl__dot11__assoc__resp.html" title="wl_dot11_assoc_resp" alt="" coords="111,5,259,32"/>
+<area shape="rect" id="node4" href="$structwl__dot11__assoc__req.html" title="wl_dot11_assoc_req" alt="" coords="283,5,423,32"/>
+</map>

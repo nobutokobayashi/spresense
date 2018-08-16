@@ -1,0 +1,11 @@
+<map id="CaptureComponentParam" name="CaptureComponentParam">
+<area shape="rect" id="node2" href="$structExecCaptureComponentParam.html" title="ExecCaptureComponentParam" alt="" coords="1269,5,1472,32"/>
+<area shape="rect" id="node3" href="$structInitCaptureComponentParam.html" title="InitCaptureComponentParam" alt="" coords="1275,56,1466,83"/>
+<area shape="rect" id="node4" href="$structCaptureDataParam.html" title="CaptureDataParam" alt="" coords="1030,56,1165,83"/>
+<area shape="rect" id="node5" href="$structCaptureBuffer.html" title="CaptureBuffer" alt="" coords="854,56,957,83"/>
+<area shape="rect" id="node6" href="$classMemMgrLite_1_1MemHandle.html" title="Memory Handler Class for &quot;Memory Manager Lite&quot;. This is only wrapper class for convert project&#45;specif..." alt="" coords="582,56,754,83"/>
+<area shape="rect" id="node7" href="$classMemMgrLite_1_1MemHandleBase.html" title="Memory Handler Base Class for Memory Handler Base Class. This class`s methods can called only from Me..." alt="" coords="328,56,531,83"/>
+<area shape="rect" id="node9" href="$structNotifyCaptureComponentParam.html" title="NotifyCaptureComponentParam" alt="" coords="1267,107,1475,133"/>
+<area shape="rect" id="node10" href="$structActCaptureComponentParam.html" title="ActCaptureComponentParam" alt="" coords="1274,157,1467,184"/>
+<area shape="rect" id="node11" href="$structStopCaptureComponentParam.html" title="StopCaptureComponentParam" alt="" coords="1271,208,1471,235"/>
+</map>

@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['filter_5fpos_5faa',['FILTER_POS_AA',['../group__scu__datatypes.html#ggac62b2bdd6cc848416c61551405f154dbaf6816d707566d55f455d10bd4bf0688e',1,'cxd56_scu.h']]],
+  ['filter_5fpos_5fae',['FILTER_POS_AE',['../group__scu__datatypes.html#ggac62b2bdd6cc848416c61551405f154dbae5191808ad5d7cff863093a96b01a078',1,'cxd56_scu.h']]],
+  ['filter_5fpos_5faf',['FILTER_POS_AF',['../group__scu__datatypes.html#ggac62b2bdd6cc848416c61551405f154dba7be383da032ef2dcbbc771a161190061',1,'cxd56_scu.h']]],
+  ['filter_5fpos_5fee',['FILTER_POS_EE',['../group__scu__datatypes.html#ggac62b2bdd6cc848416c61551405f154dba6e884d626ac1e37bb6ffde8f5acd0e9d',1,'cxd56_scu.h']]],
+  ['filter_5fpos_5ffe',['FILTER_POS_FE',['../group__scu__datatypes.html#ggac62b2bdd6cc848416c61551405f154dba1a4dd1115b1c1c2c77b85dd4f3d34095',1,'cxd56_scu.h']]],
+  ['filter_5fpos_5fff',['FILTER_POS_FF',['../group__scu__datatypes.html#ggac62b2bdd6cc848416c61551405f154dba2877f151a5b4d4d36e217522cbdcb039',1,'cxd56_scu.h']]],
+  ['filter_5fpos_5fnone',['FILTER_POS_NONE',['../group__scu__datatypes.html#ggac62b2bdd6cc848416c61551405f154dba8686d5b13f8ca3dc5a64eeef7eb4c46f',1,'cxd56_scu.h']]],
+  ['fx_5fspifidevice4binitreadcommand',['FX_spifiDevice4BInitReadCommand',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057eac22bdde9d03162ff7e48b90b8c36fc5f',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevice4binitwritecommand',['FX_spifiDevice4BInitWriteCommand',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057eaaa02cfca9e3dc416d1bdcce8d7ce6fba',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedataclearstatusnone',['FX_spifiDeviceDataClearStatusNone',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057eafd8571e7c5518e55630308b774a2e8b2',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedataclearstatuss25fl032p',['FX_spifiDeviceDataClearStatusS25FL032P',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057ea83063e6bdfa01d7890700591d38ae6f6',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatagetstatusmx25l3235e',['FX_spifiDeviceDataGetStatusMX25L3235E',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057eab8e99444ce83352ddae5965a115fadeb',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatagetstatuss25fl032p',['FX_spifiDeviceDataGetStatusS25FL032P',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057eae07ecacb697648b7e594e3111e8ba5d1',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatagetstatuss25fl164k',['FX_spifiDeviceDataGetStatusS25FL164K',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057eaa64cbe56d5cb2caafa9f38f59a330090',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatagetstatusw25q80bv',['FX_spifiDeviceDataGetStatusW25Q80BV',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057ead54e4b138025b5f8a5b4c5c38b9226ab',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatainitdeinit',['FX_spifiDeviceDataInitDeinit',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057ea38590618a2257b9ed1d47b4980dca6e4',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatainitdeinits25fl164k',['FX_spifiDeviceDataInitDeinitS25FL164K',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057ea0dcb75e368d7297dbce50c250c34783a',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatasetoptsquadmodebit6',['FX_spifiDeviceDataSetOptsQuadModeBit6',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057eae2429393f0e5cf4fde8c0cb99c8b8df2',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatasetoptsquadmodebit9',['FX_spifiDeviceDataSetOptsQuadModeBit9',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057ea7c404b0c55ffdead84e465eefd21ad7c',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatasetstatusmx25l3235e',['FX_spifiDeviceDataSetStatusMX25L3235E',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057ea551bf307efbf71cf131b458e22e10d9b',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatasetstatuss25fl032p',['FX_spifiDeviceDataSetStatusS25FL032P',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057ea3566a672c5024653744283edcf477b30',1,'spifilib_dev.h']]],
+  ['fx_5fspifidevicedatasetstatuss25fl164k',['FX_spifiDeviceDataSetStatusS25FL164K',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057ea9a747fcd531086e166b55074da5270f6',1,'spifilib_dev.h']]],
+  ['fx_5fspifideviceinitreadcommand',['FX_spifiDeviceInitReadCommand',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057eadcdbddb71019959ffa017719f4511470',1,'spifilib_dev.h']]],
+  ['fx_5fspifideviceinitwritecommand',['FX_spifiDeviceInitWriteCommand',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057ea7099e0eaa8da563cdfb3d8465af3053a',1,'spifilib_dev.h']]],
+  ['fx_5fspifideviceinitwritecommandmacronix',['FX_spifiDeviceInitWriteCommandMacronix',['../group__LPCSPIFILIB__DEV.html#gga774786b72763604ae3989d9cf5d4057ea40f68bd3d3edf78a54818765cd5998fc',1,'spifilib_dev.h']]]
+];

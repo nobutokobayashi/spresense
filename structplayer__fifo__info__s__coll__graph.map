@@ -1,0 +1,4 @@
+<map id="player_fifo_info_s" name="player_fifo_info_s">
+<area shape="rect" id="node2" href="$structAsPlayerInputDeviceHdlrForRAM.html" title="AsPlayerInputDeviceHdlrForRAM" alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node3" href="$structCMN__SimpleFifoHandle.html" title="FIFO handle which holds data required to manipulate FIFO. " alt="" coords="248,5,411,32"/>
+</map>

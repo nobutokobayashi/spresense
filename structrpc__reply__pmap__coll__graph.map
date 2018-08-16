@@ -1,0 +1,5 @@
+<map id="rpc_reply_pmap" name="rpc_reply_pmap">
+<area shape="rect" id="node2" href="$structcall__result__pmap.html" title="call_result_pmap" alt="" coords="5,96,125,123"/>
+<area shape="rect" id="node3" href="$structrpc__reply__header.html" title="rpc_reply_header" alt="" coords="150,96,271,123"/>
+<area shape="rect" id="node4" href="$structrpc__auth__info.html" title="rpc_auth_info" alt="" coords="161,5,260,32"/>
+</map>

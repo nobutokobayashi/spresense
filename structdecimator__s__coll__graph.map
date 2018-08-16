@@ -1,0 +1,5 @@
+<map id="decimator_s" name="decimator_s">
+<area shape="rect" id="node2" href="$structseq__s.html" title="seq_s" alt="" coords="5,96,61,123"/>
+<area shape="rect" id="node3" href="$structscufifo__s.html" title="scufifo_s" alt="" coords="60,5,133,32"/>
+<area shape="rect" id="node4" href="$structdecimation__fifo__s.html" title="decimation_fifo_s" alt="" coords="86,96,209,123"/>
+</map>

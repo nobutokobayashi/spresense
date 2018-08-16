@@ -1,0 +1,8 @@
+<map id="video_api_conti_cap_s" name="video_api_conti_cap_s">
+<area shape="rect" id="node2" href="$structvideo__crop__s.html" title="video_crop_s" alt="" coords="5,187,104,213"/>
+<area shape="rect" id="node3" href="$structvideo__buffer__s.html" title="video_buffer_s" alt="" coords="128,187,235,213"/>
+<area shape="rect" id="node4" href="$structvideo__conti__cap__info__s.html" title="video_conti_cap_info_s" alt="" coords="259,187,417,213"/>
+<area shape="rect" id="node5" href="$structvideo__cap__param__s.html" title="video_cap_param_s" alt="" coords="203,96,341,123"/>
+<area shape="rect" id="node6" href="$structvideo__conti__frame__s.html" title="video_conti_frame_s" alt="" coords="366,96,508,123"/>
+<area shape="rect" id="node7" href="$structvideo__picture__info__s.html" title="video_picture_info_s" alt="" coords="367,5,507,32"/>
+</map>

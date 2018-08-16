@@ -1,0 +1,29 @@
+<map id="sdk/modules/include/memutils/message/MsgQueBlock.h" name="sdk/modules/include/memutils/message/MsgQueBlock.h">
+<area shape="rect" id="node2" href="$Message_8h_source.html" title="sdk/modules/include\l/memutils/message/Message.h" alt="" coords="1339,187,1543,229"/>
+<area shape="rect" id="node28" href="$MsgNotify_8h_source.html" title="sdk/modules/include\l/memutils/message/MsgNotify.h" alt="" coords="1408,97,1617,138"/>
+<area shape="rect" id="node3" href="$capture__component_8h_source.html" title="sdk/modules/audio/components\l/capture/capture_component.h" alt="" coords="1273,493,1479,534"/>
+<area shape="rect" id="node4" href="$media__recorder__obj_8h_source.html" title="sdk/modules/audio/objects\l/media_recorder/media_recorder_obj.h" alt="" coords="1571,597,1813,638"/>
+<area shape="rect" id="node5" href="$sound__effect__object_8h_source.html" title="sdk/modules/audio/objects\l/sound_effector/sound_effect\l_object.h" alt="" coords="1355,589,1545,645"/>
+<area shape="rect" id="node6" href="$component__common_8h_source.html" title="sdk/modules/audio/components\l/common/component_common.h" alt="" coords="750,493,961,534"/>
+<area shape="rect" id="node7" href="$decoder__component_8h_source.html" title="sdk/modules/audio/components\l/decoder/decoder_component.h" alt="" coords="94,597,300,638"/>
+<area shape="rect" id="node8" href="$encoder__component_8h_source.html" title="sdk/modules/audio/components\l/encoder/encoder_component.h" alt="" coords="325,597,531,638"/>
+<area shape="rect" id="node9" href="$mfe__filter__component_8h_source.html" title="sdk/modules/audio/components\l/filter/mfe_filter_component.h" alt="" coords="555,694,761,735"/>
+<area shape="rect" id="node10" href="$mpp__filter__component_8h_source.html" title="sdk/modules/audio/components\l/filter/mpp_filter_component.h" alt="" coords="555,597,761,638"/>
+<area shape="rect" id="node11" href="$src__filter__component_8h_source.html" title="sdk/modules/audio/components\l/filter/src_filter_component.h" alt="" coords="838,597,1044,638"/>
+<area shape="rect" id="node12" href="$postfilter__component_8h_source.html" title="sdk/modules/audio/components\l/postfilter/postfilter_component.h" alt="" coords="1119,597,1331,638"/>
+<area shape="rect" id="node14" href="$output__mix__sink__device_8h_source.html" title="sdk/modules/audio/objects\l/output_mixer/output_mix\l_sink_device.h" alt="" coords="1557,784,1733,840"/>
+<area shape="rect" id="node15" href="$output__mix__obj_8h_source.html" title="sdk/modules/audio/objects\l/output_mixer/output_mix_obj.h" alt="" coords="1543,889,1747,930"/>
+<area shape="rect" id="node16" href="$filter__component_8h_source.html" title="sdk/modules/audio/components\l/filter/filter_component.h" alt="" coords="1171,389,1377,430"/>
+<area shape="rect" id="node17" href="$renderer__component_8h_source.html" title="sdk/modules/audio/components\l/renderer/renderer_component.h" alt="" coords="1555,493,1761,534"/>
+<area shape="rect" id="node18" href="$attention_8h_source.html" title="sdk/modules/audio/include\l/attention.h" alt="" coords="1907,389,2083,430"/>
+<area shape="rect" id="node20" href="$audio__internal__message__types_8h_source.html" title="sdk/modules/audio/include\l/common/audio_internal\l_message_types.h" alt="" coords="1707,381,1883,437"/>
+<area shape="rect" id="node21" href="$media__player__obj_8h_source.html" title="sdk/modules/audio/objects\l/media_player/media_player_obj.h" alt="" coords="2200,493,2419,534"/>
+<area shape="rect" id="node22" href="$voice__recognition__command__object_8h_source.html" title="sdk/modules/audio/objects\l/sound_recognizer/voice\l_recognition_command_object.h" alt="" coords="2443,485,2652,541"/>
+<area shape="rect" id="node24" href="$audio__message__types_8h_source.html" title="sdk/modules/include\l/audio/audio_message\l_types.h" alt="" coords="1605,277,1757,333"/>
+<area shape="rect" id="node25" href="$sensor__message__types_8h_source.html" title="sdk/modules/include\l/sensing/sensor_message\l_types.h" alt="" coords="2209,277,2383,333"/>
+<area shape="rect" id="node26" href="$sensor__manager_8h_source.html" title="sdk/modules/sensing\l/manager/sensor_manager.h" alt="" coords="2268,389,2455,430"/>
+<area shape="rect" id="node27" href="$MsgWrapper_8h_source.html" title="sdk/modules/memutils\l/message/include/MsgWrapper.h" alt="" coords="2459,285,2672,326"/>
+<area shape="rect" id="node13" href="$postfilter__api_8h_source.html" title="sdk/modules/audio/components\l/postfilter/postfilter_api.h" alt="" coords="1363,694,1569,735"/>
+<area shape="rect" id="node19" href="$audio__manager_8h_source.html" title="sdk/modules/audio/manager\l/audio_manager.h" alt="" coords="1990,493,2175,534"/>
+<area shape="rect" id="node23" href="$voice__recognition__object_8h_source.html" title="sdk/modules/audio/objects\l/sound_recognizer/voice\l_recognition_object.h" alt="" coords="2459,589,2636,645"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mod_loadinfo_s" name="mod_loadinfo_s">
+<area shape="rect" id="node2" href="$structElf32__Shdr.html" title="Elf32_Shdr" alt="" coords="5,5,91,32"/>
+<area shape="rect" id="node3" href="$structElf32__Ehdr.html" title="Elf32_Ehdr" alt="" coords="115,5,201,32"/>
+</map>

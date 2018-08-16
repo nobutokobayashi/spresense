@@ -1,0 +1,11 @@
+<map id="avr_usbdev_s" name="avr_usbdev_s">
+<area shape="rect" id="node2" href="$structusbdev__s.html" title="usbdev_s" alt="" coords="60,397,138,424"/>
+<area shape="rect" id="node3" href="$structusbdev__ep__s.html" title="usbdev_ep_s" alt="" coords="58,207,157,233"/>
+<area shape="rect" id="node6" href="$structusbdev__ops__s.html" title="usbdev_ops_s" alt="" coords="46,307,153,333"/>
+<area shape="rect" id="node7" href="$structavr__ep__s.html" title="avr_ep_s" alt="" coords="177,307,250,333"/>
+<area shape="rect" id="node4" href="$structusbdev__epops__s.html" title="usbdev_epops_s" alt="" coords="53,96,173,123"/>
+<area shape="rect" id="node5" href="$structusbdev__req__s.html" title="usbdev_req_s" alt="" coords="115,5,217,32"/>
+<area shape="rect" id="node8" href="$structavr__req__s.html" title="avr_req_s" alt="" coords="174,147,252,173"/>
+<area shape="rect" id="node9" href="$structusbdevclass__driver__s.html" title="usbdevclass_driver_s" alt="" coords="282,397,429,424"/>
+<area shape="rect" id="node10" href="$structusbdevclass__driverops__s.html" title="usbdevclass_driverops_s" alt="" coords="276,307,445,333"/>
+</map>

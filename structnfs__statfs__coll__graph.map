@@ -1,0 +1,6 @@
+<map id="nfs_statfs" name="nfs_statfs">
+<area shape="rect" id="node2" href="$structnfs__uquad.html" title="nfs_uquad" alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node3" href="$structnfs__fattr.html" title="nfs_fattr" alt="" coords="126,169,196,196"/>
+<area shape="rect" id="node4" href="$structnfsv3__spec.html" title="nfsv3_spec" alt="" coords="118,5,207,32"/>
+<area shape="rect" id="node5" href="$structnfsv3__time.html" title="nfsv3_time" alt="" coords="231,5,317,32"/>
+</map>

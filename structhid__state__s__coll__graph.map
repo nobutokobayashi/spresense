@@ -1,0 +1,6 @@
+<map id="hid_state_s" name="hid_state_s">
+<area shape="rect" id="node2" href="$structhid__rptitem__attributes__s.html" title="hid_rptitem_attributes_s" alt="" coords="86,109,247,136"/>
+<area shape="rect" id="node3" href="$structhid__range__s.html" title="hid_range_s" alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node4" href="$structhid__usage__t.html" title="hid_usage_t" alt="" coords="121,5,212,32"/>
+<area shape="rect" id="node5" href="$structhid__unit__t.html" title="hid_unit_t" alt="" coords="237,5,315,32"/>
+</map>

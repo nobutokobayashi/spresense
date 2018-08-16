@@ -1,0 +1,4 @@
+<map id="sta_prbreq_wps_ie_data" name="sta_prbreq_wps_ie_data">
+<area shape="rect" id="node2" href="$structsta__prbreq__wps__ie__hdr.html" title="sta_prbreq_wps_ie_hdr" alt="" coords="9,96,164,123"/>
+<area shape="rect" id="node3" href="$structether__addr.html" title="ether_addr" alt="" coords="45,5,127,32"/>
+</map>

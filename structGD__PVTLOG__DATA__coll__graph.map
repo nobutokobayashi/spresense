@@ -1,0 +1,9 @@
+<map id="GD_PVTLOG_DATA" name="GD_PVTLOG_DATA">
+<area shape="rect" id="node2" href="$structPVT__DATA__ALTITUDE.html" title="PVT_DATA_ALTITUDE" alt="" coords="12,5,175,32"/>
+<area shape="rect" id="node3" href="$structPVT__DATA__DATE.html" title="PVT_DATA_DATE" alt="" coords="26,56,161,83"/>
+<area shape="rect" id="node4" href="$structPVT__DATA__DIRECTION.html" title="PVT_DATA_DIRECTION" alt="" coords="7,107,180,133"/>
+<area shape="rect" id="node5" href="$structPVT__DATA__LONGITUDE.html" title="PVT_DATA_LONGITUDE" alt="" coords="5,157,181,184"/>
+<area shape="rect" id="node6" href="$structPVT__DATA__TIME.html" title="PVT_DATA_TIME" alt="" coords="28,208,159,235"/>
+<area shape="rect" id="node7" href="$structPVT__DATA__VELOCITY.html" title="PVT_DATA_VELOCITY" alt="" coords="11,259,175,285"/>
+<area shape="rect" id="node8" href="$structPVT__DATA__LATITUDE.html" title="PVT_DATA_LATITUDE" alt="" coords="12,309,175,336"/>
+</map>

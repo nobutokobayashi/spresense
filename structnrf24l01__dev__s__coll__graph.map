@@ -1,0 +1,7 @@
+<map id="nrf24l01_dev_s" name="nrf24l01_dev_s">
+<area shape="rect" id="node2" href="$structsem__s.html" title="sem_s" alt="" coords="20,5,81,32"/>
+<area shape="rect" id="node4" href="$structpollfd.html" title="pollfd" alt="" coords="75,97,128,124"/>
+<area shape="rect" id="node3" href="$structnrf24l01__config__s.html" title="nrf24l01_config_s" alt="" coords="153,97,276,124"/>
+<area shape="rect" id="node5" href="$structspi__dev__s.html" title="spi_dev_s" alt="" coords="301,97,381,124"/>
+<area shape="rect" id="node6" href="$structspi__ops__s.html" title="spi_ops_s" alt="" coords="301,5,381,32"/>
+</map>

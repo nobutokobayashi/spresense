@@ -1,0 +1,15 @@
+<map id="AudioCommand" name="AudioCommand">
+<area shape="rect" id="node2" href="$structInitMicGainParam.html" title="InitMicGainParam" alt="" coords="225,16,351,43"/>
+<area shape="rect" id="node3" href="$structSetRenderingClkParam.html" title="SetRenderingClkParam" alt="" coords="209,67,367,93"/>
+<area shape="rect" id="node4" href="$structAudioCommandHeader.html" title="AudioCommandHeader" alt="" coords="209,117,367,144"/>
+<area shape="rect" id="node5" href="$structSetVolumeMuteParam.html" title="SetVolumeMuteParam" alt="" coords="211,168,365,195"/>
+<area shape="rect" id="node6" href="$structSetBeepParam.html" title="SetBeepParam" alt="" coords="233,219,343,245"/>
+<area shape="rect" id="node7" href="$structInitI2SParam.html" title="InitI2SParam" alt="" coords="239,269,337,296"/>
+<area shape="rect" id="node8" href="$structPowerOnParam.html" title="PowerOnParam" alt="" coords="231,320,345,347"/>
+<area shape="rect" id="node9" href="$structInitDNCParam.html" title="InitDNCParam" alt="" coords="234,371,342,397"/>
+<area shape="rect" id="node10" href="$structAsSetThroughPathParam.html" title="AsSetThroughPathParam" alt="" coords="203,421,373,448"/>
+<area shape="rect" id="node11" href="$structAsThroughPath.html" title="AsThroughPath" alt="" coords="5,421,117,448"/>
+<area shape="rect" id="node12" href="$structInitClearStereoParam.html" title="InitClearStereoParam" alt="" coords="215,472,361,499"/>
+<area shape="rect" id="node13" href="$structInitOutputSelectParam.html" title="InitOutputSelectParam" alt="" coords="211,523,365,549"/>
+<area shape="rect" id="node14" href="$structSetVolumeParam.html" title="SetVolumeParam" alt="" coords="226,573,350,600"/>
+</map>

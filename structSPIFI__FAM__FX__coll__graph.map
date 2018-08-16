@@ -1,0 +1,6 @@
+<map id="SPIFI_FAM_FX" name="SPIFI_FAM_FX">
+<area shape="rect" id="node2" href="$structSPIFI__HANDLE.html" title="LPCSPIFILIB device handle, used with all device and info functions. " alt="" coords="51,365,169,392"/>
+<area shape="rect" id="node3" href="$structSPIFI__INFODATA.html" title="Common data applicable to all devices. " alt="" coords="181,187,311,213"/>
+<area shape="rect" id="node4" href="$structSPIFI__DEVICE__DATA.html" title="Register device data. " alt="" coords="251,96,408,123"/>
+<area shape="rect" id="node5" href="$structSPIFI__DEVICE__ID.html" title="Device identification data. " alt="" coords="178,5,312,32"/>
+</map>

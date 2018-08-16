@@ -1,0 +1,4 @@
+<map id="sim_cpuinfo_s" name="sim_cpuinfo_s">
+<area shape="rect" id="node2" href="$structpthread__mutex__s.html" title="pthread_mutex_s" alt="" coords="5,96,128,123"/>
+<area shape="rect" id="node3" href="$structsem__s.html" title="sem_s" alt="" coords="36,5,97,32"/>
+</map>

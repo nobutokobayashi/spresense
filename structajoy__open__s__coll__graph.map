@@ -1,0 +1,6 @@
+<map id="ajoy_open_s" name="ajoy_open_s">
+<area shape="rect" id="node2" href="$structajoy__notify__s.html" title="ajoy_notify_s" alt="" coords="5,96,104,123"/>
+<area shape="rect" id="node3" href="$structajoy__pollevents__s.html" title="ajoy_pollevents_s" alt="" coords="129,96,255,123"/>
+<area shape="rect" id="node4" href="$structpollfd.html" title="pollfd" alt="" coords="281,96,335,123"/>
+<area shape="rect" id="node5" href="$structsem__s.html" title="sem_s" alt="" coords="277,5,339,32"/>
+</map>

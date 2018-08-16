@@ -1,0 +1,36 @@
+<map id="ieee802154_privmac_s" name="ieee802154_privmac_s">
+<area shape="rect" id="node2" href="$structmac802154__radiocb__s.html" title="mac802154_radiocb_s" alt="" coords="2083,376,2235,403"/>
+<area shape="rect" id="node3" href="$structieee802154__radiocb__s.html" title="ieee802154_radiocb_s" alt="" coords="1834,421,1985,448"/>
+<area shape="rect" id="node4" href="$structieee802154__pandesc__s.html" title="ieee802154_pandesc_s" alt="" coords="319,315,478,341"/>
+<area shape="rect" id="node21" href="$structieee802154__beacon__ind__s.html" title="ieee802154_beacon_ind_s" alt="" coords="697,405,871,432"/>
+<area shape="rect" id="node26" href="$structieee802154__scan__conf__s.html" title="ieee802154_scan_conf_s" alt="" coords="699,355,869,381"/>
+<area shape="rect" id="node5" href="$structieee802154__addr__s.html" title="ieee802154_addr_s" alt="" coords="39,397,174,424"/>
+<area shape="rect" id="node7" href="$structieee802154__txdesc__s.html" title="ieee802154_txdesc_s" alt="" coords="1001,236,1149,263"/>
+<area shape="rect" id="node22" href="$structieee802154__pendaddr__s.html" title="ieee802154_pendaddr_s" alt="" coords="317,401,480,428"/>
+<area shape="rect" id="node29" href="$structieee802154__disassoc__conf__s.html" title="ieee802154_disassoc\l_conf_s" alt="" coords="515,602,661,643"/>
+<area shape="rect" id="node30" href="$structieee802154__disassoc__ind__s.html" title="ieee802154_disassoc\l_ind_s" alt="" coords="515,866,661,907"/>
+<area shape="rect" id="node34" href="$structieee802154__commstatus__ind__s.html" title="ieee802154_commstatus\l_ind_s" alt="" coords="505,450,671,491"/>
+<area shape="rect" id="node6" href="$structieee802154__superframespec__s.html" title="ieee802154_superframespec_s" alt="" coords="5,24,208,51"/>
+<area shape="rect" id="node8" href="$structieee802154__data__conf__s.html" title="ieee802154_data_conf_s" alt="" coords="701,237,867,264"/>
+<area shape="rect" id="node18" href="$unionieee802154__notif__u.html" title="ieee802154_notif_u" alt="" coords="1007,640,1142,667"/>
+<area shape="rect" id="node9" href="$structmac802154__maccb__s.html" title="mac802154_maccb_s" alt="" coords="1532,287,1681,313"/>
+<area shape="rect" id="node10" href="$structsq__queue__s.html" title="sq_queue_s" alt="" coords="1561,351,1653,377"/>
+<area shape="rect" id="node11" href="$structsq__entry__s.html" title="sq_entry_s" alt="" coords="1283,351,1370,377"/>
+<area shape="rect" id="node12" href="$structsem__s.html" title="sem_s" alt="" coords="1576,432,1637,459"/>
+<area shape="rect" id="node13" href="$structieee802154__radio__s.html" title="ieee802154_radio_s" alt="" coords="1538,483,1675,509"/>
+<area shape="rect" id="node14" href="$structieee802154__beaconframe__s.html" title="ieee802154_beaconframe_s" alt="" coords="1515,533,1699,560"/>
+<area shape="rect" id="node15" href="$structieee802154__scan__req__s.html" title="ieee802154_scan_req_s" alt="" coords="1525,584,1688,611"/>
+<area shape="rect" id="node16" href="$structmac802154__notif__s.html" title="mac802154_notif_s" alt="" coords="1539,673,1674,700"/>
+<area shape="rect" id="node17" href="$structieee802154__notif__s.html" title="ieee802154_notif_s" alt="" coords="1259,647,1394,673"/>
+<area shape="rect" id="node19" href="$structieee802154__assoc__ind__s.html" title="ieee802154_assoc_ind_s" alt="" coords="700,519,868,545"/>
+<area shape="rect" id="node20" href="$structieee802154__capability__info__s.html" title="ieee802154_capability\l_info_s" alt="" coords="323,511,474,553"/>
+<area shape="rect" id="node23" href="$structieee802154__rxenable__conf__s.html" title="ieee802154_rxenable\l_conf_s" alt="" coords="712,949,856,990"/>
+<area shape="rect" id="node24" href="$structieee802154__poll__conf__s.html" title="ieee802154_poll_conf_s" alt="" coords="703,1015,865,1041"/>
+<area shape="rect" id="node25" href="$structieee802154__syncloss__ind__s.html" title="ieee802154_syncloss\l_ind_s" alt="" coords="711,289,857,330"/>
+<area shape="rect" id="node27" href="$structieee802154__gts__ind__s.html" title="ieee802154_gts_ind_s" alt="" coords="709,683,859,709"/>
+<area shape="rect" id="node28" href="$structieee802154__gts__info__s.html" title="ieee802154_gts_info_s" alt="" coords="321,745,476,772"/>
+<area shape="rect" id="node31" href="$structieee802154__gts__conf__s.html" title="ieee802154_gts_conf_s" alt="" coords="705,835,863,861"/>
+<area shape="rect" id="node32" href="$structieee802154__assoc__conf__s.html" title="ieee802154_assoc_conf_s" alt="" coords="696,733,872,760"/>
+<area shape="rect" id="node33" href="$structieee802154__orphan__ind__s.html" title="ieee802154_orphan_ind_s" alt="" coords="698,784,870,811"/>
+<area shape="rect" id="node35" href="$structieee802154__start__conf__s.html" title="ieee802154_start_conf_s" alt="" coords="701,569,867,596"/>
+</map>

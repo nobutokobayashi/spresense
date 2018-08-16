@@ -1,0 +1,7 @@
+<map id="lpc31_i2cdev_s" name="lpc31_i2cdev_s">
+<area shape="rect" id="node2" href="$structi2c__master__s.html" title="i2c_master_s" alt="" coords="5,96,104,123"/>
+<area shape="rect" id="node3" href="$structi2c__ops__s.html" title="i2c_ops_s" alt="" coords="14,5,95,32"/>
+<area shape="rect" id="node4" href="$structsem__s.html" title="sem_s" alt="" coords="129,96,191,123"/>
+<area shape="rect" id="node5" href="$structwdog__s.html" title="wdog_s" alt="" coords="215,96,281,123"/>
+<area shape="rect" id="node6" href="$structi2c__msg__s.html" title="i2c_msg_s" alt="" coords="359,96,444,123"/>
+</map>

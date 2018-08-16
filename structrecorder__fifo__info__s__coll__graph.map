@@ -1,0 +1,4 @@
+<map id="recorder_fifo_info_s" name="recorder_fifo_info_s">
+<area shape="rect" id="node2" href="$structCMN__SimpleFifoHandle.html" title="FIFO handle which holds data required to manipulate FIFO. " alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node3" href="$structAsRecorderOutputDeviceHdlr.html" title="AsRecorderOutputDeviceHdlr" alt="" coords="192,5,387,32"/>
+</map>

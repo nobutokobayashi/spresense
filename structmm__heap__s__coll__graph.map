@@ -1,0 +1,5 @@
+<map id="mm_heap_s" name="mm_heap_s">
+<area shape="rect" id="node2" href="$structmm__allocnode__s.html" title="mm_allocnode_s" alt="" coords="5,7,125,33"/>
+<area shape="rect" id="node3" href="$structsem__s.html" title="sem_s" alt="" coords="149,7,211,33"/>
+<area shape="rect" id="node4" href="$structmm__freenode__s.html" title="mm_freenode_s" alt="" coords="251,7,365,33"/>
+</map>

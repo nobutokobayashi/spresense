@@ -1,0 +1,11 @@
+<map id="sdk/bsp/src/cxd56_dmac.h" name="sdk/bsp/src/cxd56_dmac.h">
+<area shape="rect" id="node2" href="$stdint_8h_source.html" title="stdint.h" alt="" coords="164,155,229,181"/>
+<area shape="rect" id="node13" href="$cxd56__dmac__common_8h.html" title="cxd56_dmac_common.h" alt="" coords="175,80,338,107"/>
+<area shape="rect" id="node3" href="$config_8h_source.html" title="nuttx/config.h" alt="" coords="181,304,282,331"/>
+<area shape="rect" id="node5" href="$nuttx_2include_2nuttx_2compiler_8h_source.html" title="nuttx/compiler.h" alt="" coords="23,453,138,480"/>
+<area shape="rect" id="node11" href="$include_2limits_8h_source.html" title="limits.h" alt="" coords="130,229,194,256"/>
+<area shape="rect" id="node4" href="$stdlib_8h_source.html" title="stdlib.h" alt="" coords="23,379,87,405"/>
+<area shape="rect" id="node8" href="$string_8h_source.html" title="string.h" alt="" coords="213,379,278,405"/>
+<area shape="rect" id="node6" href="$nuttx_2include_2sys_2types_8h_source.html" title="sys/types.h" alt="" coords="166,528,257,555"/>
+<area shape="rect" id="node9" href="$stddef_8h_source.html" title="stddef.h" alt="" coords="213,453,282,480"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SPIFI_DEV_ENUMERATOR" name="SPIFI_DEV_ENUMERATOR">
+<area shape="rect" id="node2" href="$structSPIFI__DEV__NODE.html" title="Register device data node. " alt="" coords="18,187,155,213"/>
+<area shape="rect" id="node6" href="$structSPIFI__FAM__DESC.html" title="LPCSPIFILIB family descriptor, used to describe devices to non&#45;device specific functions. " alt="" coords="103,277,237,304"/>
+<area shape="rect" id="node3" href="$structSPIFI__DEVICE__DATA.html" title="Register device data. " alt="" coords="8,96,165,123"/>
+<area shape="rect" id="node4" href="$structSPIFI__DEVICE__ID.html" title="Device identification data. " alt="" coords="19,5,153,32"/>
+<area shape="rect" id="node5" href="$structSPIFI__FAM__NODE.html" title="LPCSPIFILIB family data. " alt="" coords="103,368,240,395"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="adc_fifo_s" name="adc_fifo_s">
+<area shape="rect" id="node2" href="$structsem__s.html" title="sem_s" alt="" coords="5,5,67,32"/>
+<area shape="rect" id="node3" href="$structadc__msg__s.html" title="adc_msg_s" alt="" coords="91,5,180,32"/>
+</map>

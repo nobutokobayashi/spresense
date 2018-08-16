@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['baseaddr',['baseAddr',['../structSPIFI__INFODATA.html#a6e1a31f1fb1db81cb06d89328c5bd9ba',1,'SPIFI_INFODATA']]],
+  ['bdatacount',['bDataCount',['../structGD__SPECTRUM__DATA.html#aae603778232c304774362460dd21d15a',1,'GD_SPECTRUM_DATA']]],
+  ['bdatanum',['bDataNum',['../structGD__SPECTRUM__DATA.html#a3f1039727d57b568a0987e4bee814743',1,'GD_SPECTRUM_DATA']]],
+  ['beep_5fen',['beep_en',['../structSetBeepParam.html#a6285f4e4ca4e6d728d80f1366155e426',1,'SetBeepParam']]],
+  ['beep_5ffreq',['beep_freq',['../structSetBeepParam.html#a4435c4ac04c9dd0b4ceb1566ba361af0',1,'SetBeepParam']]],
+  ['beep_5fvol',['beep_vol',['../structSetBeepParam.html#a541141962f0c131bcadce1768b3b780b',1,'SetBeepParam']]],
+  ['bifgain',['bIfGain',['../structGD__SPECTRUM__DATA.html#ad1e2234731fc77081e3193e2ae47d4f1',1,'GD_SPECTRUM_DATA']]],
+  ['bit_5flength',['bit_length',['../structapu__pcm__param__s.html#ab4ce9fe8d4f63fec4481be4521c8a233',1,'apu_pcm_param_s::bit_length()'],['../structApuInitEncCmd.html#a758dbb06b9ca988c5999d7968c53f96a',1,'ApuInitEncCmd::bit_length()'],['../group__audioutils__audio__high__level__api.html#ga67b6576db7ddb215d85061ae2d52c085',1,'AsPcmDataParam::bit_length()'],['../structAsInitPlayerParam.html#ad85fd935017bc9203a958542fcc8bcdb',1,'AsInitPlayerParam::bit_length()'],['../structAsInitRecorderParam.html#a25f50936246b61bd9c6aa692ffe5d944',1,'AsInitRecorderParam::bit_length()']]],
+  ['bit_5frate',['bit_rate',['../structapu__init__dec__cmd__s.html#aee31f48d6abf109768506fb883ddad9d',1,'apu_init_dec_cmd_s::bit_rate()'],['../structApuInitEncCmd.html#a2538f06eca595dbf623e0e1792fa9ef8',1,'ApuInitEncCmd::bit_rate()']]],
+  ['bit_5fwidth',['bit_width',['../structApuInitPostFilterCmd.html#a25a1fe1a934234bb8f5dfb66d1b7d689',1,'ApuInitPostFilterCmd']]],
+  ['bitrate',['bitrate',['../structAsInitRecorderParam.html#aae23f0d825ede386b103b3dc9220f972',1,'AsInitRecorderParam']]],
+  ['blks',['blks',['../structSPIFI__DEVICE__DATA.html#ad7e0b2d8289188c8e5fd44e79db731ee',1,'SPIFI_DEVICE_DATA']]],
+  ['blksize',['blkSize',['../structSPIFI__DEVICE__DATA.html#a04dfcac2f3c7294dd2d7b8937dcbc920',1,'SPIFI_DEVICE_DATA']]],
+  ['block_5flen',['block_len',['../structApuInitSBCEncParam.html#a8bca4bd61ea634c996b1844b5ad3739b',1,'ApuInitSBCEncParam']]],
+  ['blocksize',['blockSize',['../structSPIFI__INFODATA.html#ad22258e792c9dfc87712175aa5e9e57e',1,'SPIFI_INFODATA']]],
+  ['bn',['bn',['../structcxd56__rtk__glonassephemeris__s.html#a220e213b4cae45c8a55617ccdf393f1d',1,'cxd56_rtk_glonassephemeris_s::bn()'],['../structGD__EPH__GLN.html#a142a7bd2d79f619aa6c0430c1486b427',1,'GD_EPH_GLN::Bn()']]],
+  ['brollover',['bRollOver',['../structGD__WNTOW.html#a18b26139d46978bc7ae1134ab43cbb78',1,'GD_WNTOW']]],
+  ['bsamplingstep',['bSamplingStep',['../structGD__SPECTRUM__DATA.html#a8def098fc0888bd54d5a3bf252829699',1,'GD_SPECTRUM_DATA']]],
+  ['bsec',['bSec',['../structGD__WNTOW.html#ae69a28ae2767d930cfc51d904ba6618d',1,'GD_WNTOW']]],
+  ['bsizemode',['bSizeMode',['../structGD__SPECTRUM__DATA.html#a53e2eb9ed73726253a03771d44605c68',1,'GD_SPECTRUM_DATA']]],
+  ['bstatus',['bStatus',['../structGD__SPECTRUM__DATA.html#a0d06ccb526066aede213b6f7134666fe',1,'GD_SPECTRUM_DATA']]],
+  ['bypass_5fmode_5fen',['bypass_mode_en',['../structInitI2SParam.html#a449c83122bf98ca314c956209180d6fe',1,'InitI2SParam']]],
+  ['bytesperline',['bytesperline',['../structv4l2__pix__format.html#ae0a3e19ba034779b48900fe5c52e0f39',1,'v4l2_pix_format']]],
+  ['bytesused',['bytesused',['../structv4l2__buffer.html#af23d0b47ede8c5115018609ba8315226',1,'v4l2_buffer']]]
+];

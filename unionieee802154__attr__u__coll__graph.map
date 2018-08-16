@@ -1,0 +1,5 @@
+<map id="ieee802154_attr_u" name="ieee802154_attr_u">
+<area shape="rect" id="node2" href="$unionieee802154__secattr__u.html" title="ieee802154_secattr_u" alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node3" href="$unionieee802154__macattr__u.html" title="ieee802154_macattr_u" alt="" coords="179,5,332,32"/>
+<area shape="rect" id="node4" href="$unionieee802154__phyattr__u.html" title="ieee802154_phyattr_u" alt="" coords="357,5,505,32"/>
+</map>

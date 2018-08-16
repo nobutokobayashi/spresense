@@ -1,0 +1,9 @@
+<map id="rpc_call_setattr" name="rpc_call_setattr">
+<area shape="rect" id="node2" href="$structrpc__call__header.html" title="rpc_call_header" alt="" coords="5,213,117,240"/>
+<area shape="rect" id="node3" href="$structrpc__auth__info.html" title="rpc_auth_info" alt="" coords="11,109,111,136"/>
+<area shape="rect" id="node4" href="$structSETATTR3args.html" title="SETATTR3args" alt="" coords="143,213,257,240"/>
+<area shape="rect" id="node5" href="$structnfsv3__sattr.html" title="nfsv3_sattr" alt="" coords="146,109,232,136"/>
+<area shape="rect" id="node6" href="$structnfsv3__time.html" title="nfsv3_time" alt="" coords="146,5,232,32"/>
+<area shape="rect" id="node7" href="$structfile__handle.html" title="file_handle" alt="" coords="267,109,351,136"/>
+<area shape="rect" id="node8" href="$structnfsfh.html" title="nfsfh" alt="" coords="284,5,335,32"/>
+</map>

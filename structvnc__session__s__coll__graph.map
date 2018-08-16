@@ -1,0 +1,8 @@
+<map id="vnc_session_s" name="vnc_session_s">
+<area shape="rect" id="node2" href="$structsem__s.html" title="sem_s" alt="" coords="5,213,67,240"/>
+<area shape="rect" id="node3" href="$structsq__queue__s.html" title="sq_queue_s" alt="" coords="91,213,183,240"/>
+<area shape="rect" id="node4" href="$structsq__entry__s.html" title="sq_entry_s" alt="" coords="71,109,157,136"/>
+<area shape="rect" id="node5" href="$structvnc__fbupdate__s.html" title="vnc_fbupdate_s" alt="" coords="211,213,325,240"/>
+<area shape="rect" id="node6" href="$structnxgl__rect__s.html" title="nxgl_rect_s" alt="" coords="235,109,324,136"/>
+<area shape="rect" id="node7" href="$structnxgl__point__s.html" title="nxgl_point_s" alt="" coords="233,5,327,32"/>
+</map>

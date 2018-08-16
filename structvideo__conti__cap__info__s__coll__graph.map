@@ -1,0 +1,5 @@
+<map id="video_conti_cap_info_s" name="video_conti_cap_info_s">
+<area shape="rect" id="node2" href="$structvideo__cap__param__s.html" title="video_cap_param_s" alt="" coords="5,96,144,123"/>
+<area shape="rect" id="node3" href="$structvideo__conti__frame__s.html" title="video_conti_frame_s" alt="" coords="169,96,311,123"/>
+<area shape="rect" id="node4" href="$structvideo__picture__info__s.html" title="video_picture_info_s" alt="" coords="169,5,309,32"/>
+</map>

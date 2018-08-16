@@ -1,0 +1,13 @@
+<map id="cxd56_usbdev_s" name="cxd56_usbdev_s">
+<area shape="rect" id="node7" href="$structcxd56__ep__s.html" title="cxd56_ep_s" alt="" coords="74,573,165,600"/>
+<area shape="rect" id="node2" href="$structusbdev__s.html" title="usbdev_s" alt="" coords="285,392,363,419"/>
+<area shape="rect" id="node3" href="$structusbdev__ep__s.html" title="usbdev_ep_s" alt="" coords="251,197,349,224"/>
+<area shape="rect" id="node6" href="$structusbdev__ops__s.html" title="usbdev_ops_s" alt="" coords="373,288,480,315"/>
+<area shape="rect" id="node4" href="$structusbdev__epops__s.html" title="usbdev_epops_s" alt="" coords="133,96,253,123"/>
+<area shape="rect" id="node5" href="$structusbdev__req__s.html" title="usbdev_req_s" alt="" coords="71,5,173,32"/>
+<area shape="rect" id="node8" href="$structcxd56__req__s.html" title="cxd56_req_s" alt="" coords="5,147,101,173"/>
+<area shape="rect" id="node9" href="$structcxd56__data__desc__s.html" title="cxd56_data_desc_s" alt="" coords="271,483,409,509"/>
+<area shape="rect" id="node10" href="$structusb__ctrlreq__s.html" title="usb_ctrlreq_s" alt="" coords="387,392,487,419"/>
+<area shape="rect" id="node11" href="$structusbdevclass__driver__s.html" title="usbdevclass_driver_s" alt="" coords="113,392,260,419"/>
+<area shape="rect" id="node12" href="$structusbdevclass__driverops__s.html" title="usbdevclass_driverops_s" alt="" coords="106,288,275,315"/>
+</map>

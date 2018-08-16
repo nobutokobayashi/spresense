@@ -1,0 +1,13 @@
+<map id="task_tcb_s" name="task_tcb_s">
+<area shape="rect" id="node2" href="$structtcb__s.html" title="tcb_s" alt="" coords="466,324,520,351"/>
+<area shape="rect" id="node3" href="$structtask__group__s.html" title="task_group_s" alt="" coords="179,231,279,257"/>
+<area shape="rect" id="node4" href="$structsq__queue__s.html" title="sq_queue_s" alt="" coords="5,109,96,136"/>
+<area shape="rect" id="node5" href="$structsq__entry__s.html" title="sq_entry_s" alt="" coords="7,5,93,32"/>
+<area shape="rect" id="node6" href="$structsem__s.html" title="sem_s" alt="" coords="273,5,335,32"/>
+<area shape="rect" id="node7" href="$structjoin__s.html" title="join_s" alt="" coords="276,109,331,136"/>
+<area shape="rect" id="node8" href="$structwdog__s.html" title="wdog_s" alt="" coords="460,231,527,257"/>
+<area shape="rect" id="node9" href="$structxcptcontext.html" title="xcptcontext" alt="" coords="604,231,695,257"/>
+<area shape="rect" id="node10" href="$unionentry__u.html" title="entry_u" alt="" coords="719,231,784,257"/>
+<area shape="rect" id="node11" href="$structsiginfo.html" title="siginfo" alt="" coords="809,231,868,257"/>
+<area shape="rect" id="node12" href="$unionsigval.html" title="sigval" alt="" coords="811,109,865,136"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="lpc43_usbdev_s" name="lpc43_usbdev_s">
+<area shape="rect" id="node7" href="$structlpc43__ep__s.html" title="lpc43_ep_s" alt="" coords="49,573,137,600"/>
+<area shape="rect" id="node2" href="$structusbdev__s.html" title="usbdev_s" alt="" coords="283,392,361,419"/>
+<area shape="rect" id="node3" href="$structusbdev__ep__s.html" title="usbdev_ep_s" alt="" coords="249,197,348,224"/>
+<area shape="rect" id="node6" href="$structusbdev__ops__s.html" title="usbdev_ops_s" alt="" coords="372,288,479,315"/>
+<area shape="rect" id="node4" href="$structusbdev__epops__s.html" title="usbdev_epops_s" alt="" coords="131,96,251,123"/>
+<area shape="rect" id="node5" href="$structusbdev__req__s.html" title="usbdev_req_s" alt="" coords="69,5,171,32"/>
+<area shape="rect" id="node8" href="$structlpc43__req__s.html" title="lpc43_req_s" alt="" coords="6,147,97,173"/>
+<area shape="rect" id="node9" href="$structusb__ctrlreq__s.html" title="usb_ctrlreq_s" alt="" coords="386,392,485,419"/>
+<area shape="rect" id="node10" href="$structusbdevclass__driver__s.html" title="usbdevclass_driver_s" alt="" coords="111,392,259,419"/>
+<area shape="rect" id="node11" href="$structusbdevclass__driverops__s.html" title="usbdevclass_driverops_s" alt="" coords="105,288,273,315"/>
+</map>

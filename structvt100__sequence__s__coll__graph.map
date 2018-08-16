@@ -1,0 +1,7 @@
+<map id="vt100_sequence_s" name="vt100_sequence_s">
+<area shape="rect" id="node2" href="$structnxterm__state__s.html" title="nxterm_state_s" alt="" coords="97,200,208,227"/>
+<area shape="rect" id="node3" href="$structsem__s.html" title="sem_s" alt="" coords="5,96,67,123"/>
+<area shape="rect" id="node4" href="$structnxgl__point__s.html" title="nxgl_point_s" alt="" coords="106,5,200,32"/>
+<area shape="rect" id="node5" href="$structnxterm__bitmap__s.html" title="nxterm_bitmap_s" alt="" coords="168,96,291,123"/>
+<area shape="rect" id="node6" href="$structnxterm__operations__s.html" title="nxterm_operations_s" alt="" coords="315,96,457,123"/>
+</map>

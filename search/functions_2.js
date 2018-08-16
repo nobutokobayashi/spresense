@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['barometerclose',['BarometerClose',['../group__logical__barometer.html#ga0667bf826c76377456468ca42359f30a',1,'barometer.h']]],
+  ['barometercreate',['BarometerCreate',['../group__logical__barometer.html#ga36ac412ef07079d40161def285c26f7e',1,'BarometerCreate(void):&#160;barometer.cpp'],['../group__logical__barometer.html#ga36ac412ef07079d40161def285c26f7e',1,'BarometerCreate(void):&#160;barometer.cpp']]],
+  ['barometeropen',['BarometerOpen',['../group__logical__barometer.html#ga8a3749ee65af6f2b94cf2f245194303b',1,'barometer.h']]],
+  ['barometersetpressureadjustparam',['BarometerSetPressureAdjustParam',['../group__logical__barometer.html#ga76ad61b1a12918a3dc41ce03626d0103',1,'barometer.h']]],
+  ['barometersettemperatureadjustparam',['BarometerSetTemperatureAdjustParam',['../group__logical__barometer.html#ga3258def60c88debb75b93061c92dbebc',1,'barometer.h']]],
+  ['barometerstart',['BarometerStart',['../group__logical__barometer.html#ga3fef181944b464875564a241803b57ba',1,'barometer.h']]],
+  ['barometerstop',['BarometerStop',['../group__logical__barometer.html#gac9c766aacb58f67b1e580b98d837418a',1,'barometer.h']]],
+  ['barometerwrite',['BarometerWrite',['../group__logical__barometer.html#ga0bf4ed0223c33cfc51113d88c3680496',1,'barometer.h']]],
+  ['board_5fgpio_5fconfig',['board_gpio_config',['../group__gpioif__defs.html#ga4cdfa5fa26e0b8523a3b382dbd86fb51',1,'board_gpio_config(uint32_t pin, int mode, bool input, bool drive, int pull):&#160;cxd56_gpioif.c'],['../group__gpioif__defs.html#ga4cdfa5fa26e0b8523a3b382dbd86fb51',1,'board_gpio_config(uint32_t pin, int mode, bool input, bool drive, int pull):&#160;cxd56_gpioif.c']]],
+  ['board_5fgpio_5fint',['board_gpio_int',['../group__gpioif__defs.html#gadddbcad8c9a2f6fc619f84a39798f8dc',1,'board_gpio_int(uint32_t pin, bool enable):&#160;cxd56_gpioif.c'],['../group__gpioif__defs.html#gadddbcad8c9a2f6fc619f84a39798f8dc',1,'board_gpio_int(uint32_t pin, bool enable):&#160;cxd56_gpioif.c']]],
+  ['board_5fgpio_5fintconfig',['board_gpio_intconfig',['../group__gpioif__defs.html#ga3ac5454bcb588a251d8214157858268f',1,'board_gpio_intconfig(uint32_t pin, int mode, bool filter, xcpt_t isr):&#160;cxd56_gpioif.c'],['../group__gpioif__defs.html#ga3ac5454bcb588a251d8214157858268f',1,'board_gpio_intconfig(uint32_t pin, int mode, bool filter, xcpt_t isr):&#160;cxd56_gpioif.c']]],
+  ['board_5fgpio_5fintstatus',['board_gpio_intstatus',['../group__gpioif__defs.html#ga9c5fd94c336ca6ce857c4b545837f1fa',1,'board_gpio_intstatus(uint32_t pin, int *mode, bool *filter, bool *enabled):&#160;cxd56_gpioif.c'],['../group__gpioif__defs.html#ga9c5fd94c336ca6ce857c4b545837f1fa',1,'board_gpio_intstatus(uint32_t pin, int *mode, bool *filter, bool *enabled):&#160;cxd56_gpioif.c']]],
+  ['board_5fgpio_5fread',['board_gpio_read',['../group__gpioif__defs.html#ga75b597835e4bf54a53de92897e564548',1,'board_gpio_read(uint32_t pin):&#160;cxd56_gpioif.c'],['../group__gpioif__defs.html#ga75b597835e4bf54a53de92897e564548',1,'board_gpio_read(uint32_t pin):&#160;cxd56_gpioif.c']]],
+  ['board_5fgpio_5fstatus',['board_gpio_status',['../group__gpioif__defs.html#ga3dd12169051bee94e6727957d54cac2b',1,'board_gpio_status(uint32_t pin, bool *input, bool *output, bool *drive, int *pull):&#160;cxd56_gpioif.c'],['../group__gpioif__defs.html#ga3dd12169051bee94e6727957d54cac2b',1,'board_gpio_status(uint32_t pin, bool *input, bool *output, bool *drive, int *pull):&#160;cxd56_gpioif.c']]],
+  ['board_5fgpio_5fwrite',['board_gpio_write',['../group__gpioif__defs.html#ga1844b81ca3136ecb8c4a3d4bb3f36677',1,'board_gpio_write(uint32_t pin, int value):&#160;cxd56_gpioif.c'],['../group__gpioif__defs.html#ga1844b81ca3136ecb8c4a3d4bb3f36677',1,'board_gpio_write(uint32_t pin, int value):&#160;cxd56_gpioif.c']]],
+  ['bufreq',['bufReq',['../structNMEA__OUTPUT__CB.html#a4ad3e4da07567a043eda3fe1d18518f9',1,'NMEA_OUTPUT_CB']]]
+];

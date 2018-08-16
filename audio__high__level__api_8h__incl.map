@@ -1,0 +1,42 @@
+<map id="sdk/modules/include/audio/audio_high_level_api.h" name="sdk/modules/include/audio/audio_high_level_api.h">
+<area shape="rect" id="node3" href="$audio__command__id_8h.html" title="CXD5602 Audio Command ID. " alt="" coords="2521,104,2700,131"/>
+<area shape="rect" id="node4" href="$audio__common__defs_8h_source.html" title="audio/audio_common\l_defs.h" alt="" coords="1181,97,1326,138"/>
+<area shape="rect" id="node13" href="$stdint_8h_source.html" title="stdint.h" alt="" coords="1758,1541,1823,1568"/>
+<area shape="rect" id="node27" href="$stdbool_8h_source.html" title="stdbool.h" alt="" coords="1624,1219,1698,1245"/>
+<area shape="rect" id="node5" href="$MemHandle_8h.html" title="Memory Handler API. " alt="" coords="786,187,968,229"/>
+<area shape="rect" id="node6" href="$MemManager_8h_source.html" title="memutils/memory_manager\l/MemManager.h" alt="" coords="468,278,650,319"/>
+<area shape="rect" id="node7" href="$string_8h_source.html" title="string.h" alt="" coords="516,1219,580,1245"/>
+<area shape="rect" id="node18" href="$MemHandleBase_8h.html" title="Memory Manager Lite Memory Handle Base class API. " alt="" coords="468,369,650,410"/>
+<area shape="rect" id="node8" href="$config_8h_source.html" title="nuttx/config.h" alt="" coords="1139,1301,1240,1328"/>
+<area shape="rect" id="node17" href="$stddef_8h_source.html" title="stddef.h" alt="" coords="779,1301,848,1328"/>
+<area shape="rect" id="node9" href="$stdlib_8h_source.html" title="stdlib.h" alt="" coords="1148,1384,1212,1411"/>
+<area shape="rect" id="node10" href="$nuttx_2include_2nuttx_2compiler_8h_source.html" title="nuttx/compiler.h" alt="" coords="1604,1616,1719,1643"/>
+<area shape="rect" id="node11" href="$nuttx_2include_2sys_2types_8h_source.html" title="sys/types.h" alt="" coords="476,1467,567,1493"/>
+<area shape="rect" id="node15" href="$include_2limits_8h_source.html" title="limits.h" alt="" coords="1863,1616,1927,1643"/>
+<area shape="rect" id="node19" href="$common__errcode_8h_source.html" title="memutils/common_utils\l/common_errcode.h" alt="" coords="562,550,720,591"/>
+<area shape="rect" id="node20" href="$Manager_8h.html" title="Memory Manager API. " alt="" coords="370,459,552,501"/>
+<area shape="rect" id="node21" href="$MemPool_8h_source.html" title="memutils/memory_manager\l/MemPool.h" alt="" coords="354,550,536,591"/>
+<area shape="rect" id="node22" href="$RuntimeQue_8h_source.html" title="memutils/memory_manager\l/RuntimeQue.h" alt="" coords="662,641,844,682"/>
+<area shape="rect" id="node49" href="$MemMgrTypes_8h_source.html" title="memutils/memory_manager\l/MemMgrTypes.h" alt="" coords="354,641,536,682"/>
+<area shape="rect" id="node24" href="$stdio_8h_source.html" title="stdio.h" alt="" coords="723,739,784,765"/>
+<area shape="rect" id="node46" href="$common__assert_8h_source.html" title="memutils/common_utils\l/common_assert.h" alt="" coords="2191,1121,2350,1162"/>
+<area shape="rect" id="node48" href="$cpp__util_8h_source.html" title="memutils/os_utils/cpp\l_util.h" alt="" coords="460,731,608,773"/>
+<area shape="rect" id="node26" href="$include_2sched_8h_source.html" title="sched.h" alt="" coords="1513,821,1580,848"/>
+<area shape="rect" id="node34" href="$fs_8h_source.html" title="nuttx/fs/fs.h" alt="" coords="781,1045,872,1072"/>
+<area shape="rect" id="node44" href="$include_2semaphore_8h_source.html" title="semaphore.h" alt="" coords="2297,1219,2394,1245"/>
+<area shape="rect" id="node45" href="$time_8h_source.html" title="time.h" alt="" coords="2214,1219,2271,1245"/>
+<area shape="rect" id="node28" href="$include_2nuttx_2sched_8h_source.html" title="nuttx/sched.h" alt="" coords="1210,896,1311,923"/>
+<area shape="rect" id="node30" href="$include_2nuttx_2signal_8h_source.html" title="signal.h" alt="" coords="656,1219,723,1245"/>
+<area shape="rect" id="node31" href="$include_2nuttx_2semaphore_8h_source.html" title="semaphore.h" alt="" coords="885,971,982,997"/>
+<area shape="rect" id="node32" href="$include_2nuttx_2clock_8h_source.html" title="nuttx/clock.h" alt="" coords="1420,1045,1516,1072"/>
+<area shape="rect" id="node33" href="$nuttx_2time_8h_source.html" title="time.h" alt="" coords="1480,1128,1538,1155"/>
+<area shape="rect" id="node36" href="$include_2nuttx_2mqueue_8h_source.html" title="nuttx/mqueue.h" alt="" coords="864,1128,975,1155"/>
+<area shape="rect" id="node37" href="$include_2nuttx_2pthread_8h_source.html" title="pthread.h" alt="" coords="1030,971,1106,997"/>
+<area shape="rect" id="node38" href="$nuttx_2include_2nuttx_2irq_8h_source.html" title="nuttx/irq.h" alt="" coords="2008,1219,2087,1245"/>
+<area shape="rect" id="node40" href="$include_2nuttx_2wdog_8h_source.html" title="nuttx/wdog.h" alt="" coords="1638,1128,1735,1155"/>
+<area shape="rect" id="node41" href="$include_2nuttx_2mm_2shm_8h_source.html" title="nuttx/mm/shm.h" alt="" coords="1096,1045,1212,1072"/>
+<area shape="rect" id="node42" href="$net_8h_source.html" title="nuttx/net/net.h" alt="" coords="1238,1045,1344,1072"/>
+<area shape="rect" id="node39" href="$assert_8h_source.html" title="assert.h" alt="" coords="2282,1467,2351,1493"/>
+<area shape="rect" id="node47" href="$common__macro_8h_source.html" title="memutils/common_utils\l/common_macro.h" alt="" coords="1723,1211,1882,1253"/>
+<area shape="rect" id="node50" href="$common__types_8h_source.html" title="memutils/common_utils\l/common_types.h" alt="" coords="26,1377,184,1418"/>
+</map>

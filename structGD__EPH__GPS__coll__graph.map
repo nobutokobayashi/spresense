@@ -1,0 +1,5 @@
+<map id="GD_EPH_GPS" name="GD_EPH_GPS">
+<area shape="rect" id="node2" href="$structGD__WNTOW.html" title="GD_WNTOW" alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node3" href="$structGD__TIME.html" title="GD_TIME" alt="" coords="131,5,212,32"/>
+<area shape="rect" id="node4" href="$structGD__DATE.html" title="GD_DATE" alt="" coords="237,5,323,32"/>
+</map>

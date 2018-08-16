@@ -1,0 +1,43 @@
+<map id="examples" name="examples">
+<area shape="rect" id="node2" href="dir_5e7d0dc096d52b6a883e90ec877dc4ce.html" title="accel" alt="" coords="2872,27,2944,75"/>
+<area shape="rect" id="node3" href="dir_720b8ab6b790f5f5c2491f2b59525b47.html" title="adc" alt="" coords="2776,27,2848,75"/>
+<area shape="rect" id="node4" href="dir_fdf5e0f3f890801cb58deaa9592f4895.html" title="alarm" alt="" coords="2680,27,2752,75"/>
+<area shape="rect" id="node5" href="dir_f3299b10b3f0dafe5374b101f2391ee8.html" title="asmp" alt="" coords="2584,27,2656,75"/>
+<area shape="rect" id="node30" href="dir_243a4ba6b4f893d71afbb5a3e90552fa.html" title="sdk" alt="" coords="1599,123,1671,171"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000004_000183.html" title="2" alt="" coords="1685,147,1693,161"/>
+<area shape="rect" id="node6" href="dir_8e2f6570fcaeea8adac5880baf44181f.html" title="audio_player" alt="" coords="2465,27,2559,75"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000007_000183.html" title="3" alt="" coords="1685,146,1693,160"/>
+<area shape="rect" id="node7" href="dir_1a1df43d5b9ffee62bdcf2707beefdb0.html" title="audio_recorder" alt="" coords="2333,27,2440,75"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000009_000183.html" title="3" alt="" coords="1685,144,1693,159"/>
+<area shape="rect" id="node8" href="dir_ed91bdbd67ac5db7e77e630b2e67def0.html" title="audio_through" alt="" coords="2206,27,2308,75"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000015_000183.html" title="1" alt="" coords="1685,147,1693,162"/>
+<area shape="rect" id="node9" href="dir_e29d109082d71cba52ee8213b541d6f9.html" title="camera" alt="" coords="2109,27,2181,75"/>
+<area shape="rect" id="node10" href="dir_1196b982ea28d430bb7327a3e8bd8278.html" title="colorsensor" alt="" coords="1995,27,2084,75"/>
+<area shape="rect" id="node11" href="dir_6f274ca1ad55b46a7b819e429a53467f.html" title="decimator" alt="" coords="1893,27,1971,75"/>
+<area shape="rect" id="node12" href="dir_3bd9871a1afe3069de01830d63557d78.html" title="fwupdate" alt="" coords="1793,27,1867,75"/>
+<area shape="rect" id="node13" href="dir_99394738b7d9ed42adcd7ce23bd45475.html" title="geofence" alt="" coords="1695,27,1768,75"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000021_000183.html" title="1" alt="" coords="1673,109,1681,123"/>
+<area shape="rect" id="node14" href="dir_cf8e6adb9aad537701683a77d6494caa.html" title="gnss" alt="" coords="1599,27,1671,75"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000022_000183.html" title="1" alt="" coords="1639,97,1647,112"/>
+<area shape="rect" id="node15" href="dir_17b363d216749084a2c8944a892d0366.html" title="gnss_atcmd" alt="" coords="1481,27,1575,75"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000023_000183.html" title="2" alt="" coords="1597,97,1605,112"/>
+<area shape="rect" id="node16" href="dir_0f2d5081ca09e09029f9e873f7c6ef0a.html" title="gnss_factory" alt="" coords="1359,27,1456,75"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000024_000183.html" title="1" alt="" coords="1580,113,1588,128"/>
+<area shape="rect" id="node17" href="dir_a25f3bb4d07f353b0121507d58f87651.html" title="gnss_pvtlog" alt="" coords="1243,27,1335,75"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000025_000183.html" title="1" alt="" coords="1577,123,1585,138"/>
+<area shape="rect" id="node18" href="dir_d372eb3dc42ac7899781a965bb72bd07.html" title="gyro" alt="" coords="1147,27,1219,75"/>
+<area shape="rect" id="node19" href="dir_3987f764e5cdcc180d43d3cbe9167956.html" title="hello" alt="" coords="1051,27,1123,75"/>
+<area shape="rect" id="node20" href="dir_010c6a7e22f4bb19036c64e2d46938f7.html" title="helloxx" alt="" coords="955,27,1027,75"/>
+<area shape="rect" id="node21" href="dir_9024a3bf10609f0ef45c6e129877cf3d.html" title="light" alt="" coords="859,27,931,75"/>
+<area shape="rect" id="node22" href="dir_6ad2ba2683ccc4dc28b42a3d35f8cab9.html" title="mag" alt="" coords="763,27,835,75"/>
+<area shape="rect" id="node23" href="dir_642b16f8b57fa7242855d790340f573a.html" title="press" alt="" coords="667,27,739,75"/>
+<area shape="rect" id="node24" href="dir_5bc60b5dc58c066d42c244c1195a2f99.html" title="proximity" alt="" coords="568,27,641,75"/>
+<area shape="rect" id="node25" href="dir_04647ed39555c220555ebdffeb4f51b1.html" title="sixaxis" alt="" coords="472,27,544,75"/>
+<area shape="rect" id="node26" href="dir_2c1ad0813e36179dda01662392927e4d.html" title="tilt" alt="" coords="376,27,448,75"/>
+<area shape="rect" id="node27" href="dir_901d75ff5680b823deaebeea23c7cc7d.html" title="voice_call" alt="" coords="272,27,351,75"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000011_000183.html" title="2" alt="" coords="1577,129,1585,143"/>
+<area shape="rect" id="node28" href="dir_60f53ddcfdd5d6d763a62ef0038e7236.html" title="voice_command" alt="" coords="131,27,247,75"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000013_000183.html" title="2" alt="" coords="1576,130,1584,145"/>
+<area shape="rect" id="node29" href="dir_39d3b5a5a2bd6f650eb656b4cea28618.html" title="watchdog" alt="" coords="27,27,105,75"/>
+<area shape="rect" id="clust1" href="dir_d28a4824dc47e487b107a5db32ef43c4.html" alt="" coords="16,16,3059,85"/>
+</map>

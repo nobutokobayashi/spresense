@@ -1,0 +1,5 @@
+<map id="epoll_head" name="epoll_head">
+<area shape="rect" id="node2" href="$structepoll__event.html" title="epoll_event" alt="" coords="37,96,125,123"/>
+<area shape="rect" id="node3" href="$structsem__s.html" title="sem_s" alt="" coords="5,5,67,32"/>
+<area shape="rect" id="node4" href="$unionpoll__data.html" title="poll_data" alt="" coords="91,5,164,32"/>
+</map>

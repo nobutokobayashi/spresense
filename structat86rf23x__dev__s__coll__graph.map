@@ -1,0 +1,7 @@
+<map id="at86rf23x_dev_s" name="at86rf23x_dev_s">
+<area shape="rect" id="node2" href="$structieee802154__cca__s.html" title="ieee802154_cca_s" alt="" coords="5,96,135,123"/>
+<area shape="rect" id="node3" href="$structat86rf23x__lower__s.html" title="at86rf23x_lower_s" alt="" coords="160,96,288,123"/>
+<area shape="rect" id="node4" href="$structieee802154__radio__s.html" title="ieee802154_radio_s" alt="" coords="313,96,449,123"/>
+<area shape="rect" id="node5" href="$structspi__dev__s.html" title="spi_dev_s" alt="" coords="474,96,555,123"/>
+<area shape="rect" id="node6" href="$structspi__ops__s.html" title="spi_ops_s" alt="" coords="474,5,555,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hid_rptinfo_s" name="hid_rptinfo_s">
+<area shape="rect" id="node2" href="$structhid__rptitem__s.html" title="hid_rptitem_s" alt="" coords="191,200,291,227"/>
+<area shape="rect" id="node3" href="$structhid__collectionpath__s.html" title="hid_collectionpath_s" alt="" coords="5,109,144,136"/>
+<area shape="rect" id="node4" href="$structhid__usage__t.html" title="hid_usage_t" alt="" coords="109,5,200,32"/>
+<area shape="rect" id="node5" href="$structhid__rptitem__attributes__s.html" title="hid_rptitem_attributes_s" alt="" coords="234,109,395,136"/>
+<area shape="rect" id="node6" href="$structhid__range__s.html" title="hid_range_s" alt="" coords="255,5,347,32"/>
+<area shape="rect" id="node7" href="$structhid__unit__t.html" title="hid_unit_t" alt="" coords="371,5,449,32"/>
+<area shape="rect" id="node8" href="$structhid__rptsizeinfo__s.html" title="hid_rptsizeinfo_s" alt="" coords="316,200,436,227"/>
+</map>

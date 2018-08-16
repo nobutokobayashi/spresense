@@ -1,0 +1,5 @@
+<map id="cxd56_gnss_pvtlog_status" name="cxd56_gnss_pvtlog_status">
+<area shape="rect" id="node2" href="$structGD__PVTLOG__STATUS.html" title="GD_PVTLOG_STATUS" alt="" coords="69,109,232,136"/>
+<area shape="rect" id="node3" href="$structPVT__DATA__DATE.html" title="PVT_DATA_DATE" alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node4" href="$structPVT__DATA__TIME.html" title="PVT_DATA_TIME" alt="" coords="164,5,293,32"/>
+</map>

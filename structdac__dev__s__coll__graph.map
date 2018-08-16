@@ -1,0 +1,6 @@
+<map id="dac_dev_s" name="dac_dev_s">
+<area shape="rect" id="node2" href="$structdac__fifo__s.html" title="dac_fifo_s" alt="" coords="73,96,155,123"/>
+<area shape="rect" id="node3" href="$structdac__msg__s.html" title="dac_msg_s" alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node4" href="$structsem__s.html" title="sem_s" alt="" coords="145,5,207,32"/>
+<area shape="rect" id="node5" href="$structdac__ops__s.html" title="dac_ops_s" alt="" coords="309,96,395,123"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rpc_call_read" name="rpc_call_read">
+<area shape="rect" id="node2" href="$structrpc__call__header.html" title="rpc_call_header" alt="" coords="5,200,117,227"/>
+<area shape="rect" id="node3" href="$structrpc__auth__info.html" title="rpc_auth_info" alt="" coords="11,96,111,123"/>
+<area shape="rect" id="node4" href="$structREAD3args.html" title="READ3args" alt="" coords="142,200,233,227"/>
+<area shape="rect" id="node5" href="$structfile__handle.html" title="file_handle" alt="" coords="146,96,229,123"/>
+<area shape="rect" id="node6" href="$structnfsfh.html" title="nfsfh" alt="" coords="163,5,213,32"/>
+</map>

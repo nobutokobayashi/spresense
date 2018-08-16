@@ -1,0 +1,7 @@
+<map id="rpc_call_fs" name="rpc_call_fs">
+<area shape="rect" id="node2" href="$structrpc__call__header.html" title="rpc_call_header" alt="" coords="5,200,117,227"/>
+<area shape="rect" id="node3" href="$structrpc__auth__info.html" title="rpc_auth_info" alt="" coords="11,96,111,123"/>
+<area shape="rect" id="node4" href="$structFS3args.html" title="FS3args" alt="" coords="142,200,212,227"/>
+<area shape="rect" id="node5" href="$structfile__handle.html" title="file_handle" alt="" coords="135,96,219,123"/>
+<area shape="rect" id="node6" href="$structnfsfh.html" title="nfsfh" alt="" coords="152,5,203,32"/>
+</map>

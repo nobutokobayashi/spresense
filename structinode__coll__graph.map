@@ -1,0 +1,6 @@
+<map id="inode" name="inode">
+<area shape="rect" id="node2" href="$unioninode__ops__u.html" title="inode_ops_u" alt="" coords="171,96,265,123"/>
+<area shape="rect" id="node3" href="$structmountpt__operations.html" title="mountpt_operations" alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node4" href="$structfile__operations.html" title="file_operations" alt="" coords="165,5,272,32"/>
+<area shape="rect" id="node5" href="$structblock__operations.html" title="block_operations" alt="" coords="296,5,416,32"/>
+</map>

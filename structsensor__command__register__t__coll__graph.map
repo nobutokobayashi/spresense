@@ -1,0 +1,4 @@
+<map id="sensor_command_register_t" name="sensor_command_register_t">
+<area shape="rect" id="node2" href="$structsensor__command__data__t.html" title="The command of send some sensor data without MemHandle to the sensor manager. " alt="" coords="119,96,287,123"/>
+<area shape="rect" id="node3" href="$structsensor__command__header__t.html" title="Sensor Commnad Header. All sensor command has this header. " alt="" coords="7,5,189,32"/>
+</map>

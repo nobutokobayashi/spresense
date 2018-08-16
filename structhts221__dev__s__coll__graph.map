@@ -1,0 +1,7 @@
+<map id="hts221_dev_s" name="hts221_dev_s">
+<area shape="rect" id="node2" href="$structhts221__config__s.html" title="hts221_config_s" alt="" coords="5,96,121,123"/>
+<area shape="rect" id="node3" href="$structi2c__master__s.html" title="i2c_master_s" alt="" coords="146,96,245,123"/>
+<area shape="rect" id="node4" href="$structi2c__ops__s.html" title="i2c_ops_s" alt="" coords="155,5,236,32"/>
+<area shape="rect" id="node5" href="$structsem__s.html" title="sem_s" alt="" coords="300,5,361,32"/>
+<area shape="rect" id="node6" href="$structpollfd.html" title="pollfd" alt="" coords="369,96,423,123"/>
+</map>

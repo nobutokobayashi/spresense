@@ -1,0 +1,13 @@
+<map id="lc823450_req_s" name="lc823450_req_s">
+<area shape="rect" id="node2" href="$structusbdev__req__s.html" title="usbdev_req_s" alt="" coords="34,5,136,32"/>
+<area shape="rect" id="node7" href="$structusbdev__epops__s.html" title="usbdev_epops_s" alt="" coords="213,96,333,123"/>
+<area shape="rect" id="node3" href="$structsq__entry__s.html" title="sq_entry_s" alt="" coords="47,96,133,123"/>
+<area shape="rect" id="node5" href="$structsq__queue__s.html" title="sq_queue_s" alt="" coords="109,200,200,227"/>
+<area shape="rect" id="node4" href="$structlc823450__ep__s.html" title="lc823450_ep_s" alt="" coords="105,291,215,317"/>
+<area shape="rect" id="node8" href="$structlc823450__usbdev__s.html" title="lc823450_usbdev_s" alt="" coords="207,472,344,499"/>
+<area shape="rect" id="node6" href="$structusbdev__ep__s.html" title="usbdev_ep_s" alt="" coords="229,200,328,227"/>
+<area shape="rect" id="node9" href="$structusbdev__s.html" title="usbdev_s" alt="" coords="301,381,379,408"/>
+<area shape="rect" id="node10" href="$structusbdev__ops__s.html" title="usbdev_ops_s" alt="" coords="239,291,345,317"/>
+<area shape="rect" id="node11" href="$structusbdevclass__driver__s.html" title="usbdevclass_driver_s" alt="" coords="426,381,573,408"/>
+<area shape="rect" id="node12" href="$structusbdevclass__driverops__s.html" title="usbdevclass_driverops_s" alt="" coords="443,291,612,317"/>
+</map>

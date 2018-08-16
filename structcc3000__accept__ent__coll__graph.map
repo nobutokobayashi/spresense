@@ -1,0 +1,5 @@
+<map id="cc3000_accept_ent" name="cc3000_accept_ent">
+<area shape="rect" id="node2" href="$structsockaddr.html" title="sockaddr" alt="" coords="5,96,79,123"/>
+<area shape="rect" id="node3" href="$structcc3000__socket__ent.html" title="cc3000_socket_ent" alt="" coords="105,96,239,123"/>
+<area shape="rect" id="node4" href="$structsem__s.html" title="sem_s" alt="" coords="141,5,203,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="nxbe_redraw_s" name="nxbe_redraw_s">
+<area shape="rect" id="node2" href="$structnxbe__clipops__s.html" title="nxbe_clipops_s" alt="" coords="5,201,116,228"/>
+<area shape="rect" id="node3" href="$structnxbe__window__s.html" title="nxbe_window_s" alt="" coords="141,201,256,228"/>
+<area shape="rect" id="node4" href="$structnxbe__state__s.html" title="nxbe_state_s" alt="" coords="313,307,412,333"/>
+<area shape="rect" id="node5" href="$structfb__videoinfo__s.html" title="fb_videoinfo_s" alt="" coords="344,201,451,228"/>
+<area shape="rect" id="node6" href="$structnxbe__plane__s.html" title="nxbe_plane_s" alt="" coords="475,201,577,228"/>
+<area shape="rect" id="node7" href="$structnxgl__rect__s.html" title="nxgl_rect_s" alt="" coords="82,109,171,136"/>
+<area shape="rect" id="node8" href="$structnxgl__point__s.html" title="nxgl_point_s" alt="" coords="79,5,173,32"/>
+<area shape="rect" id="node9" href="$structnx__callback__s.html" title="nx_callback_s" alt="" coords="195,109,300,136"/>
+</map>

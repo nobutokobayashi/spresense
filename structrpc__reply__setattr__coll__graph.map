@@ -1,0 +1,11 @@
+<map id="rpc_reply_setattr" name="rpc_reply_setattr">
+<area shape="rect" id="node2" href="$structrpc__reply__header.html" title="rpc_reply_header" alt="" coords="5,320,125,347"/>
+<area shape="rect" id="node3" href="$structrpc__auth__info.html" title="rpc_auth_info" alt="" coords="15,229,115,256"/>
+<area shape="rect" id="node4" href="$structSETATTR3resok.html" title="SETATTR3resok" alt="" coords="151,320,273,347"/>
+<area shape="rect" id="node5" href="$structwcc__data.html" title="wcc_data" alt="" coords="173,229,251,256"/>
+<area shape="rect" id="node6" href="$structwcc__attr.html" title="wcc_attr" alt="" coords="220,139,292,165"/>
+<area shape="rect" id="node7" href="$structnfsv3__time.html" title="nfsv3_time" alt="" coords="310,5,396,32"/>
+<area shape="rect" id="node9" href="$structnfs__fattr.html" title="nfs_fattr" alt="" coords="125,139,195,165"/>
+<area shape="rect" id="node8" href="$structnfs__uquad.html" title="nfs_uquad" alt="" coords="173,5,255,32"/>
+<area shape="rect" id="node10" href="$structnfsv3__spec.html" title="nfsv3_spec" alt="" coords="37,5,125,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Audio Utility" name="Audio Utility">
+<area shape="rect" id="node1" href="$group__audioutils__audio__player__api.html" title="Audio Player API" alt="" coords="161,5,284,32"/>
+<area shape="rect" id="node2" href="$group__audioutils__audio__high__level__api.html" title="Audio High Level API" alt="" coords="149,56,296,83"/>
+<area shape="rect" id="node3" href="$group__audioutils__audio__recorder__api.html" title="Audio Recorder API" alt="" coords="153,107,292,133"/>
+<area shape="rect" id="node5" href="$group__audioutils__audio__outputmix__api.html" title="Audio OutputMix API" alt="" coords="150,157,295,184"/>
+<area shape="rect" id="node6" href="$group__audioutils__audio__capture__api.html" title="Audio Capture API" alt="" coords="157,208,288,235"/>
+<area shape="rect" id="node7" href="$group__cxd56__audio__api.html" title="Audio Driver API" alt="" coords="163,259,283,285"/>
+<area shape="rect" id="node8" href="$group__audioutils__audio__effector__api.html" title="Audio Effector API" alt="" coords="157,309,288,336"/>
+<area shape="rect" id="node9" href="$group__audioutils__audio__command__id.html" title="Audio Command ID" alt="" coords="154,360,291,387"/>
+<area shape="rect" id="node10" href="$group__audioutils__audio__recognizer__api.html" title="Audio Recognizer API" alt="" coords="147,411,298,437"/>
+<area shape="rect" id="node11" href="$group__audioutils__audio__renderer__api.html" title="Audio Renderer API" alt="" coords="153,461,292,488"/>
+</map>

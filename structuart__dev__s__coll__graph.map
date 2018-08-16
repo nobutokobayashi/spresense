@@ -1,0 +1,6 @@
+<map id="uart_dev_s" name="uart_dev_s">
+<area shape="rect" id="node2" href="$structsem__s.html" title="sem_s" alt="" coords="103,5,164,32"/>
+<area shape="rect" id="node3" href="$structuart__buffer__s.html" title="uart_buffer_s" alt="" coords="84,112,183,139"/>
+<area shape="rect" id="node4" href="$structpollfd.html" title="pollfd" alt="" coords="207,112,260,139"/>
+<area shape="rect" id="node5" href="$structuart__ops__s.html" title="uart_ops_s" alt="" coords="285,112,371,139"/>
+</map>

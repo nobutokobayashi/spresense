@@ -1,0 +1,5 @@
+<map id="cc1101_dev_s" name="cc1101_dev_s">
+<area shape="rect" id="node2" href="$structc1101__rfsettings__s.html" title="c1101_rfsettings_s" alt="" coords="5,96,136,123"/>
+<area shape="rect" id="node3" href="$structspi__dev__s.html" title="spi_dev_s" alt="" coords="161,96,241,123"/>
+<area shape="rect" id="node4" href="$structspi__ops__s.html" title="spi_ops_s" alt="" coords="161,5,241,32"/>
+</map>

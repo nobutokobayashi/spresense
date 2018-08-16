@@ -1,0 +1,7 @@
+<map id="rpc_reply_fsinfo" name="rpc_reply_fsinfo">
+<area shape="rect" id="node2" href="$structrpc__reply__header.html" title="rpc_reply_header" alt="" coords="5,96,125,123"/>
+<area shape="rect" id="node3" href="$structrpc__auth__info.html" title="rpc_auth_info" alt="" coords="15,5,115,32"/>
+<area shape="rect" id="node4" href="$structnfsv3__fsinfo.html" title="nfsv3_fsinfo" alt="" coords="151,96,244,123"/>
+<area shape="rect" id="node5" href="$structnfsv3__time.html" title="nfsv3_time" alt="" coords="146,5,232,32"/>
+<area shape="rect" id="node6" href="$structnfs__uquad.html" title="nfs_uquad" alt="" coords="257,5,339,32"/>
+</map>

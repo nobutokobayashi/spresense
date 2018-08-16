@@ -1,0 +1,18 @@
+<map id="usbmsc_dev_s" name="usbmsc_dev_s">
+<area shape="rect" id="node2" href="$structusbdev__s.html" title="usbdev_s" alt="" coords="929,171,1007,197"/>
+<area shape="rect" id="node3" href="$structusbdev__ep__s.html" title="usbdev_ep_s" alt="" coords="499,109,597,136"/>
+<area shape="rect" id="node6" href="$structusbdev__ops__s.html" title="usbdev_ops_s" alt="" coords="691,171,797,197"/>
+<area shape="rect" id="node4" href="$structusbdev__epops__s.html" title="usbdev_epops_s" alt="" coords="216,109,336,136"/>
+<area shape="rect" id="node5" href="$structusbdev__req__s.html" title="usbdev_req_s" alt="" coords="6,109,109,136"/>
+<area shape="rect" id="node16" href="$structusbmsc__req__s.html" title="usbmsc_req_s" alt="" coords="368,215,475,241"/>
+<area shape="rect" id="node7" href="$structsq__queue__s.html" title="sq_queue_s" alt="" coords="922,299,1014,325"/>
+<area shape="rect" id="node8" href="$structsq__entry__s.html" title="sq_entry_s" alt="" coords="701,337,787,364"/>
+<area shape="rect" id="node9" href="$structsem__s.html" title="sem_s" alt="" coords="937,361,999,388"/>
+<area shape="rect" id="node10" href="$structusbmsc__lun__s.html" title="usbmsc_lun_s" alt="" coords="915,421,1021,448"/>
+<area shape="rect" id="node11" href="$structinode.html" title="inode" alt="" coords="717,441,771,468"/>
+<area shape="rect" id="node12" href="$unioninode__ops__u.html" title="inode_ops_u" alt="" coords="501,441,595,468"/>
+<area shape="rect" id="node13" href="$structmountpt__operations.html" title="mountpt_operations" alt="" coords="208,391,344,417"/>
+<area shape="rect" id="node14" href="$structfile__operations.html" title="file_operations" alt="" coords="223,441,329,468"/>
+<area shape="rect" id="node15" href="$structblock__operations.html" title="block_operations" alt="" coords="216,492,336,519"/>
+<area shape="rect" id="node17" href="$structusbdev__devinfo__s.html" title="usbdev_devinfo_s" alt="" coords="905,472,1031,499"/>
+</map>

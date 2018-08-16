@@ -1,0 +1,5 @@
+<map id="lpc31_spidev_s" name="lpc31_spidev_s">
+<area shape="rect" id="node2" href="$structsem__s.html" title="sem_s" alt="" coords="5,96,67,123"/>
+<area shape="rect" id="node3" href="$structspi__dev__s.html" title="spi_dev_s" alt="" coords="91,96,172,123"/>
+<area shape="rect" id="node4" href="$structspi__ops__s.html" title="spi_ops_s" alt="" coords="91,5,172,32"/>
+</map>

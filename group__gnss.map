@@ -1,0 +1,8 @@
+<map id="GNSS driver" name="GNSS driver">
+<area shape="rect" id="node1" href="$group__gnss__nmea.html" title="NMEA output library" alt="" coords="150,5,290,32"/>
+<area shape="rect" id="node2" href="$group__gnss__ioctl.html" title="IOCTL commands" alt="" coords="155,56,285,83"/>
+<area shape="rect" id="node3" href="$group__gnss__output__data.html" title="GNSS position data" alt="" coords="151,107,289,133"/>
+<area shape="rect" id="node4" href="$group__gnss__defs.html" title="Defines" alt="" coords="187,157,253,184"/>
+<area shape="rect" id="node5" href="$group__gnss__datatypes.html" title="Data types" alt="" coords="177,208,263,235"/>
+<area shape="rect" id="node7" href="$group__gnss__pvtlog__data.html" title="GNSS PVTLog data" alt="" coords="150,259,290,285"/>
+</map>

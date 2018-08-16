@@ -1,0 +1,6 @@
+<map id="task_group_s" name="task_group_s">
+<area shape="rect" id="node2" href="$structsq__queue__s.html" title="sq_queue_s" alt="" coords="5,109,96,136"/>
+<area shape="rect" id="node3" href="$structsq__entry__s.html" title="sq_entry_s" alt="" coords="7,5,93,32"/>
+<area shape="rect" id="node4" href="$structsem__s.html" title="sem_s" alt="" coords="192,5,253,32"/>
+<area shape="rect" id="node5" href="$structjoin__s.html" title="join_s" alt="" coords="255,109,309,136"/>
+</map>

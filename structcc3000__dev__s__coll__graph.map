@@ -1,0 +1,10 @@
+<map id="cc3000_dev_s" name="cc3000_dev_s">
+<area shape="rect" id="node2" href="$structsem__s.html" title="sem_s" alt="" coords="87,5,148,32"/>
+<area shape="rect" id="node5" href="$structcc3000__socket__ent.html" title="cc3000_socket_ent" alt="" coords="50,96,184,123"/>
+<area shape="rect" id="node7" href="$structpollfd.html" title="pollfd" alt="" coords="315,177,368,204"/>
+<area shape="rect" id="node3" href="$structcc3000__accept__ent.html" title="cc3000_accept_ent" alt="" coords="178,259,312,285"/>
+<area shape="rect" id="node4" href="$structsockaddr.html" title="sockaddr" alt="" coords="209,96,283,123"/>
+<area shape="rect" id="node6" href="$structcc3000__buffer__desc__s.html" title="cc3000_buffer_desc_s" alt="" coords="409,259,561,285"/>
+<area shape="rect" id="node8" href="$structspi__dev__s.html" title="spi_dev_s" alt="" coords="586,259,667,285"/>
+<area shape="rect" id="node9" href="$structspi__ops__s.html" title="spi_ops_s" alt="" coords="586,96,667,123"/>
+</map>

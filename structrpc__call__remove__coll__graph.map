@@ -1,0 +1,8 @@
+<map id="rpc_call_remove" name="rpc_call_remove">
+<area shape="rect" id="node2" href="$structrpc__call__header.html" title="rpc_call_header" alt="" coords="5,291,117,317"/>
+<area shape="rect" id="node3" href="$structrpc__auth__info.html" title="rpc_auth_info" alt="" coords="11,187,111,213"/>
+<area shape="rect" id="node4" href="$structREMOVE3args.html" title="REMOVE3args" alt="" coords="143,291,253,317"/>
+<area shape="rect" id="node5" href="$structdiropargs3.html" title="diropargs3" alt="" coords="157,187,239,213"/>
+<area shape="rect" id="node6" href="$structfile__handle.html" title="file_handle" alt="" coords="157,96,240,123"/>
+<area shape="rect" id="node7" href="$structnfsfh.html" title="nfsfh" alt="" coords="173,5,224,32"/>
+</map>

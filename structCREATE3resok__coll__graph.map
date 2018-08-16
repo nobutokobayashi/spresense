@@ -1,0 +1,10 @@
+<map id="CREATE3resok" name="CREATE3resok">
+<area shape="rect" id="node2" href="$structwcc__data.html" title="wcc_data" alt="" coords="117,229,195,256"/>
+<area shape="rect" id="node3" href="$structwcc__attr.html" title="wcc_attr" alt="" coords="86,139,158,165"/>
+<area shape="rect" id="node4" href="$structnfsv3__time.html" title="nfsv3_time" alt="" coords="8,5,94,32"/>
+<area shape="rect" id="node6" href="$structnfs__fattr.html" title="nfs_fattr" alt="" coords="196,139,266,165"/>
+<area shape="rect" id="node5" href="$structnfs__uquad.html" title="nfs_uquad" alt="" coords="143,5,224,32"/>
+<area shape="rect" id="node7" href="$structnfsv3__spec.html" title="nfsv3_spec" alt="" coords="264,5,352,32"/>
+<area shape="rect" id="node8" href="$structfile__handle.html" title="file_handle" alt="" coords="328,229,411,256"/>
+<area shape="rect" id="node9" href="$structnfsfh.html" title="nfsfh" alt="" coords="344,139,395,165"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="sdk/system" name="sdk/system">
+<area shape="rect" id="node2" href="dir_ecb89a60b27d4842c1bef2020ef6d284.html" title="builtin" alt="" coords="1916,63,1988,111"/>
+<area shape="rect" id="node3" href="dir_b8de86af29d354b10139b60760bb82c9.html" title="cdcacm" alt="" coords="1820,63,1892,111"/>
+<area shape="rect" id="node4" href="dir_3c66556b92db9305479110cb36a0e6a1.html" title="cle" alt="" coords="1724,63,1796,111"/>
+<area shape="rect" id="node5" href="dir_4081850249301cb6ccf458b39a9ebf87.html" title="composite" alt="" coords="1617,63,1699,111"/>
+<area shape="rect" id="node6" href="dir_c4aba40301e25b8f52ff86992976d587.html" title="fsutils" alt="" coords="1521,63,1593,111"/>
+<area shape="rect" id="node7" href="dir_0a9e1dc302908d7a1aa86ebc27fad624.html" title="gpio" alt="" coords="1425,63,1497,111"/>
+<area shape="rect" id="node8" href="dir_3b5c582c2c3edabdc4466dbc2f8014b9.html" title="gpioint" alt="" coords="1329,63,1401,111"/>
+<area shape="rect" id="node9" href="dir_65308e2edbc2b3e7d073e9c1dfddb338.html" title="i2c" alt="" coords="1233,63,1305,111"/>
+<area shape="rect" id="node10" href="dir_2c50d96e637fc36fc967ecfceb08ed87.html" title="include" alt="" coords="1137,63,1209,111"/>
+<area shape="rect" id="node11" href="dir_20a7539eead91eeafcdde5354d8ac169.html" title="logdump" alt="" coords="1041,63,1113,111"/>
+<area shape="rect" id="node12" href="dir_9712bd33a0a27ef87a3bbf83b6d74762.html" title="logsave" alt="" coords="945,63,1017,111"/>
+<area shape="rect" id="node13" href="dir_fcaf91f89b635da72a13176a516326cd.html" title="nsh" alt="" coords="849,63,921,111"/>
+<area shape="rect" id="node14" href="dir_3e187695e8202181ce9a724ccd5eda21.html" title="nshlib" alt="" coords="753,63,825,111"/>
+<area shape="rect" id="node15" href="dir_4f1d56b6e1a1013e3b9f70e07cc897fa.html" title="platform" alt="" coords="657,63,729,111"/>
+<area shape="rect" id="node16" href="dir_5005481650ec558997148fe39952cff5.html" title="pmic" alt="" coords="561,63,633,111"/>
+<area shape="rect" id="node17" href="dir_7846bce09f75641a283d769ee9e495d2.html" title="readline" alt="" coords="465,63,537,111"/>
+<area shape="rect" id="node18" href="dir_f44837de4265d6b7ba07986a0041d6cb.html" title="setlogmask" alt="" coords="351,63,440,111"/>
+<area shape="rect" id="node19" href="dir_5c56a4d9be4ff64693a73c4715e03071.html" title="stackmonitor" alt="" coords="230,63,327,111"/>
+<area shape="rect" id="node20" href="dir_019b643a15e417a3e8db69461f73a222.html" title="usbmsc" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="node21" href="dir_c3cf7b06df98505fec2021d6419390b3.html" title="zmodem" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="clust2" href="dir_99605d7addae69c2673785c148d8d24b.html" alt="" coords="27,52,2095,121"/>
+<area shape="rect" id="clust1" href="dir_243a4ba6b4f893d71afbb5a3e90552fa.html" title="sdk" alt="" coords="16,16,2105,132"/>
+</map>

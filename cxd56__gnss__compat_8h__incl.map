@@ -1,0 +1,11 @@
+<map id="sdk/modules/include/gpsutils/cxd56_gnss_compat.h" name="sdk/modules/include/gpsutils/cxd56_gnss_compat.h">
+<area shape="rect" id="node2" href="$cxd56__gnss__type__compat_8h.html" title="gpsutils/cxd56_gnss\l_type_compat.h" alt="" coords="126,110,266,151"/>
+<area shape="rect" id="node3" href="$stdint_8h_source.html" title="stdint.h" alt="" coords="164,200,229,227"/>
+<area shape="rect" id="node4" href="$config_8h_source.html" title="nuttx/config.h" alt="" coords="181,349,282,376"/>
+<area shape="rect" id="node6" href="$nuttx_2include_2nuttx_2compiler_8h_source.html" title="nuttx/compiler.h" alt="" coords="23,499,138,525"/>
+<area shape="rect" id="node12" href="$include_2limits_8h_source.html" title="limits.h" alt="" coords="130,275,194,301"/>
+<area shape="rect" id="node5" href="$stdlib_8h_source.html" title="stdlib.h" alt="" coords="23,424,87,451"/>
+<area shape="rect" id="node9" href="$string_8h_source.html" title="string.h" alt="" coords="213,424,278,451"/>
+<area shape="rect" id="node7" href="$nuttx_2include_2sys_2types_8h_source.html" title="sys/types.h" alt="" coords="166,573,257,600"/>
+<area shape="rect" id="node10" href="$stddef_8h_source.html" title="stddef.h" alt="" coords="213,499,282,525"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RecorderCommand" name="RecorderCommand">
+<area shape="rect" id="node2" href="$structAsActivateRecorder.html" title="AsActivateRecorder" alt="" coords="33,187,172,213"/>
+<area shape="rect" id="node3" href="$structAsActivateRecorderParam.html" title="AsActivateRecorderParam" alt="" coords="14,96,191,123"/>
+<area shape="rect" id="node4" href="$structAsRecorderOutputDeviceHdlr.html" title="AsRecorderOutputDeviceHdlr" alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node5" href="$structAsInitRecorderParam.html" title="AsInitRecorderParam" alt="" coords="196,187,343,213"/>
+</map>

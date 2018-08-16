@@ -1,0 +1,8 @@
+<map id="nxbe_window_s" name="nxbe_window_s">
+<area shape="rect" id="node2" href="$structnxbe__state__s.html" title="nxbe_state_s" alt="" coords="171,307,271,333"/>
+<area shape="rect" id="node3" href="$structfb__videoinfo__s.html" title="fb_videoinfo_s" alt="" coords="5,201,112,228"/>
+<area shape="rect" id="node4" href="$structnxbe__plane__s.html" title="nxbe_plane_s" alt="" coords="137,201,239,228"/>
+<area shape="rect" id="node5" href="$structnxgl__rect__s.html" title="nxgl_rect_s" alt="" coords="209,109,297,136"/>
+<area shape="rect" id="node6" href="$structnxgl__point__s.html" title="nxgl_point_s" alt="" coords="206,5,300,32"/>
+<area shape="rect" id="node7" href="$structnx__callback__s.html" title="nx_callback_s" alt="" coords="322,109,427,136"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ieee802154_scan_conf_s" name="ieee802154_scan_conf_s">
+<area shape="rect" id="node2" href="$structieee802154__pandesc__s.html" title="ieee802154_pandesc_s" alt="" coords="89,96,247,123"/>
+<area shape="rect" id="node3" href="$structieee802154__addr__s.html" title="ieee802154_addr_s" alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node4" href="$structieee802154__superframespec__s.html" title="ieee802154_superframespec_s" alt="" coords="164,5,367,32"/>
+</map>

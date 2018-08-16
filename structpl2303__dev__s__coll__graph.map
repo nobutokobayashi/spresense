@@ -1,0 +1,15 @@
+<map id="pl2303_dev_s" name="pl2303_dev_s">
+<area shape="rect" id="node2" href="$structpl2303__req__s.html" title="pl2303_req_s" alt="" coords="25,147,124,173"/>
+<area shape="rect" id="node3" href="$structusbdev__req__s.html" title="usbdev_req_s" alt="" coords="23,5,125,32"/>
+<area shape="rect" id="node11" href="$structusbdev__epops__s.html" title="usbdev_epops_s" alt="" coords="129,96,249,123"/>
+<area shape="rect" id="node4" href="$structuart__dev__s.html" title="uart_dev_s" alt="" coords="501,440,587,467"/>
+<area shape="rect" id="node5" href="$structsem__s.html" title="sem_s" alt="" coords="513,197,575,224"/>
+<area shape="rect" id="node6" href="$structuart__buffer__s.html" title="uart_buffer_s" alt="" coords="495,304,593,331"/>
+<area shape="rect" id="node7" href="$structpollfd.html" title="pollfd" alt="" coords="617,304,671,331"/>
+<area shape="rect" id="node8" href="$structuart__ops__s.html" title="uart_ops_s" alt="" coords="695,304,781,331"/>
+<area shape="rect" id="node9" href="$structusbdev__s.html" title="usbdev_s" alt="" coords="186,440,264,467"/>
+<area shape="rect" id="node10" href="$structusbdev__ep__s.html" title="usbdev_ep_s" alt="" coords="159,197,257,224"/>
+<area shape="rect" id="node12" href="$structusbdev__ops__s.html" title="usbdev_ops_s" alt="" coords="259,304,365,331"/>
+<area shape="rect" id="node13" href="$structsq__queue__s.html" title="sq_queue_s" alt="" coords="693,440,784,467"/>
+<area shape="rect" id="node14" href="$structsq__entry__s.html" title="sq_entry_s" alt="" coords="806,304,892,331"/>
+</map>

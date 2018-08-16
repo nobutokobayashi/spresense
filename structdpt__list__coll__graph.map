@@ -1,0 +1,6 @@
+<map id="dpt_list" name="dpt_list">
+<area shape="rect" id="node2" href="$structdpt__status.html" title="dpt_status" alt="" coords="59,187,140,213"/>
+<area shape="rect" id="node3" href="$structsta__info__t.html" title="sta_info_t" alt="" coords="61,96,139,123"/>
+<area shape="rect" id="node4" href="$structether__addr.html" title="ether_addr" alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node5" href="$structwl__rateset.html" title="wl_rateset" alt="" coords="112,5,193,32"/>
+</map>

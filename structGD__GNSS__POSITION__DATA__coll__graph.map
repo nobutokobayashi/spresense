@@ -1,0 +1,8 @@
+<map id="GD_GNSS_POSITION_DATA" name="GD_GNSS_POSITION_DATA">
+<area shape="rect" id="node2" href="$structGD__PVT__RECEIVER.html" title="GD_PVT_RECEIVER" alt="" coords="179,125,331,152"/>
+<area shape="rect" id="node3" href="$structGD__PVT__DOP.html" title="GD_PVT_DOP" alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node4" href="$structGD__PVT__VAR.html" title="GD_PVT_VAR" alt="" coords="139,5,249,32"/>
+<area shape="rect" id="node5" href="$structGD__TIME.html" title="GD_TIME" alt="" coords="274,5,355,32"/>
+<area shape="rect" id="node6" href="$structGD__DATE.html" title="GD_DATE" alt="" coords="380,5,465,32"/>
+<area shape="rect" id="node7" href="$structGD__PVT__SV.html" title="GD_PVT_SV" alt="" coords="355,125,455,152"/>
+</map>

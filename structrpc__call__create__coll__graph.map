@@ -1,0 +1,10 @@
+<map id="rpc_call_create" name="rpc_call_create">
+<area shape="rect" id="node2" href="$structrpc__call__header.html" title="rpc_call_header" alt="" coords="5,304,117,331"/>
+<area shape="rect" id="node3" href="$structrpc__auth__info.html" title="rpc_auth_info" alt="" coords="11,200,111,227"/>
+<area shape="rect" id="node4" href="$structCREATE3args.html" title="CREATE3args" alt="" coords="143,304,252,331"/>
+<area shape="rect" id="node5" href="$structnfsv3__sattr.html" title="nfsv3_sattr" alt="" coords="145,200,231,227"/>
+<area shape="rect" id="node6" href="$structnfsv3__time.html" title="nfsv3_time" alt="" coords="145,96,231,123"/>
+<area shape="rect" id="node7" href="$structdiropargs3.html" title="diropargs3" alt="" coords="256,200,337,227"/>
+<area shape="rect" id="node8" href="$structfile__handle.html" title="file_handle" alt="" coords="255,96,339,123"/>
+<area shape="rect" id="node9" href="$structnfsfh.html" title="nfsfh" alt="" coords="272,5,323,32"/>
+</map>

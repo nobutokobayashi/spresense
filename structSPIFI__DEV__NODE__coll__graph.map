@@ -1,0 +1,4 @@
+<map id="SPIFI_DEV_NODE" name="SPIFI_DEV_NODE">
+<area shape="rect" id="node2" href="$structSPIFI__DEVICE__DATA.html" title="Register device data. " alt="" coords="5,96,163,123"/>
+<area shape="rect" id="node3" href="$structSPIFI__DEVICE__ID.html" title="Device identification data. " alt="" coords="17,5,151,32"/>
+</map>

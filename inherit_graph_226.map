@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classBasicQueue.html" title="BasicQueue\&lt; AddrT,\l SizeT, NumT, FillAfterPop \&gt;" alt="" coords="165,5,357,46"/>
+<area shape="rect" id="node3" href="$classBasicQueue.html" title="BasicQueue\&lt; drm_t,\l uint16_t, uint16_t,\l MSG_FILL_VALUE_AFTER_POP \&gt;" alt="" coords="142,69,381,125"/>
+<area shape="rect" id="node5" href="$classFastMemAlloc.html" title="FastMemAlloc" alt="" coords="208,149,315,176"/>
+<area shape="rect" id="node6" href="$classMemMgrLite_1_1InterruptLock.html" title="MemMgrLite::InterruptLock" alt="" coords="172,200,351,227"/>
+<area shape="rect" id="node8" href="$classMemMgrLite_1_1Manager.html" title="Memory Management Class for &quot;Memory Manager Lite&quot;. User can create only one instance. " alt="" coords="185,251,337,277"/>
+<area shape="rect" id="node9" href="$classMemMgrLite_1_1MemPool.html" title="MemMgrLite::MemPool" alt="" coords="183,301,340,328"/>
+<area shape="rect" id="node11" href="$classMsgQueBlock.html" title="Message Queue Class. " alt="" coords="209,352,313,379"/>
+<area shape="rect" id="node12" href="$classRuntimeQue.html" title="RuntimeQue\&lt; T, NumT \&gt;" alt="" coords="176,403,347,429"/>
+<area shape="rect" id="node13" href="$classRuntimeQue.html" title="RuntimeQue\&lt; NumSeg,\l NumSeg \&gt;" alt="" coords="180,454,343,495"/>
+<area shape="rect" id="node4" href="$classMsgQue.html" title="MsgQue" alt="" coords="482,84,553,111"/>
+<area shape="rect" id="node7" href="$classMemMgrLite_1_1ScopedLock.html" title="MemMgrLite::ScopedLock" alt="" coords="430,200,605,227"/>
+<area shape="rect" id="node10" href="$classMemMgrLite_1_1BasicPool.html" title="MemMgrLite::BasicPool" alt="" coords="437,301,598,328"/>
+</map>

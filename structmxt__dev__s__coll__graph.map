@@ -1,0 +1,9 @@
+<map id="mxt_dev_s" name="mxt_dev_s">
+<area shape="rect" id="node2" href="$structmxt__object__s.html" title="mxt_object_s" alt="" coords="5,97,104,124"/>
+<area shape="rect" id="node3" href="$structmxt__info__s.html" title="mxt_info_s" alt="" coords="129,97,215,124"/>
+<area shape="rect" id="node4" href="$structmxt__sample__s.html" title="mxt_sample_s" alt="" coords="240,97,347,124"/>
+<area shape="rect" id="node5" href="$structi2c__master__s.html" title="i2c_master_s" alt="" coords="371,97,471,124"/>
+<area shape="rect" id="node6" href="$structi2c__ops__s.html" title="i2c_ops_s" alt="" coords="381,5,461,32"/>
+<area shape="rect" id="node7" href="$structsem__s.html" title="sem_s" alt="" coords="525,5,587,32"/>
+<area shape="rect" id="node8" href="$structpollfd.html" title="pollfd" alt="" coords="597,97,651,124"/>
+</map>

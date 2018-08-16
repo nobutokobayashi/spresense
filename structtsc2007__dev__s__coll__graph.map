@@ -1,0 +1,7 @@
+<map id="tsc2007_dev_s" name="tsc2007_dev_s">
+<area shape="rect" id="node2" href="$structi2c__master__s.html" title="i2c_master_s" alt="" coords="5,97,104,124"/>
+<area shape="rect" id="node3" href="$structi2c__ops__s.html" title="i2c_ops_s" alt="" coords="14,5,95,32"/>
+<area shape="rect" id="node4" href="$structtsc2007__sample__s.html" title="tsc2007_sample_s" alt="" coords="128,97,257,124"/>
+<area shape="rect" id="node5" href="$structsem__s.html" title="sem_s" alt="" coords="312,5,373,32"/>
+<area shape="rect" id="node6" href="$structpollfd.html" title="pollfd" alt="" coords="384,97,437,124"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="usbdev_s" name="usbdev_s">
+<area shape="rect" id="node2" href="$structusbdev__ep__s.html" title="usbdev_ep_s" alt="" coords="16,187,115,213"/>
+<area shape="rect" id="node5" href="$structusbdev__ops__s.html" title="usbdev_ops_s" alt="" coords="93,277,200,304"/>
+<area shape="rect" id="node3" href="$structusbdev__epops__s.html" title="usbdev_epops_s" alt="" coords="5,96,125,123"/>
+<area shape="rect" id="node4" href="$structusbdev__req__s.html" title="usbdev_req_s" alt="" coords="14,5,116,32"/>
+</map>

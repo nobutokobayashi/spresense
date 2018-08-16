@@ -1,0 +1,6 @@
+<map id="SPIFI_HANDLE" name="SPIFI_HANDLE">
+<area shape="rect" id="node2" href="$structSPIFI__FAM__FX.html" title="Device specific function pointers. " alt="" coords="38,456,153,483"/>
+<area shape="rect" id="node3" href="$structSPIFI__INFODATA.html" title="Common data applicable to all devices. " alt="" coords="30,187,160,213"/>
+<area shape="rect" id="node4" href="$structSPIFI__DEVICE__DATA.html" title="Register device data. " alt="" coords="101,96,258,123"/>
+<area shape="rect" id="node5" href="$structSPIFI__DEVICE__ID.html" title="Device identification data. " alt="" coords="28,5,162,32"/>
+</map>

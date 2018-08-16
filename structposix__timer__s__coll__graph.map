@@ -1,0 +1,5 @@
+<map id="posix_timer_s" name="posix_timer_s">
+<area shape="rect" id="node2" href="$structsigevent.html" title="sigevent" alt="" coords="5,96,75,123"/>
+<area shape="rect" id="node3" href="$unionsigval.html" title="sigval" alt="" coords="12,5,67,32"/>
+<area shape="rect" id="node4" href="$structwdog__s.html" title="wdog_s" alt="" coords="100,96,167,123"/>
+</map>

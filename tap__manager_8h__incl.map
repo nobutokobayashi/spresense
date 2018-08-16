@@ -1,0 +1,12 @@
+<map id="sdk/modules/include/sensing/tap_manager.h" name="sdk/modules/include/sensing/tap_manager.h">
+<area shape="rect" id="node2" href="$sys_2time_8h_source.html" title="sys/time.h" alt="" coords="169,171,251,197"/>
+<area shape="rect" id="node14" href="$tap_8h.html" title="sensing/tap.h" alt="" coords="205,96,304,123"/>
+<area shape="rect" id="node3" href="$config_8h_source.html" title="nuttx/config.h" alt="" coords="160,245,261,272"/>
+<area shape="rect" id="node4" href="$stdlib_8h_source.html" title="stdlib.h" alt="" coords="84,395,148,421"/>
+<area shape="rect" id="node12" href="$string_8h_source.html" title="string.h" alt="" coords="274,320,339,347"/>
+<area shape="rect" id="node5" href="$nuttx_2include_2nuttx_2compiler_8h_source.html" title="nuttx/compiler.h" alt="" coords="5,619,120,645"/>
+<area shape="rect" id="node6" href="$nuttx_2include_2sys_2types_8h_source.html" title="sys/types.h" alt="" coords="223,469,313,496"/>
+<area shape="rect" id="node8" href="$stdint_8h_source.html" title="stdint.h" alt="" coords="138,544,203,571"/>
+<area shape="rect" id="node10" href="$include_2limits_8h_source.html" title="limits.h" alt="" coords="305,619,369,645"/>
+<area shape="rect" id="node13" href="$stddef_8h_source.html" title="stddef.h" alt="" coords="273,395,343,421"/>
+</map>

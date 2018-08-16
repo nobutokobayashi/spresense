@@ -1,0 +1,6 @@
+<map id="OutputMixerCommand" name="OutputMixerCommand">
+<area shape="rect" id="node2" href="$structAsFrameTermFineControl.html" title="AsFrameTermFineControl" alt="" coords="5,96,176,123"/>
+<area shape="rect" id="node3" href="$structAsDeactivateOutputMixer.html" title="AsDeactivateOutputMixer" alt="" coords="201,96,372,123"/>
+<area shape="rect" id="node4" href="$structAsActivateOutputMixer.html" title="AsActivateOutputMixer" alt="" coords="397,96,555,123"/>
+<area shape="rect" id="node5" href="$structAsOutputMixDoneParam.html" title="AsOutputMixDoneParam" alt="" coords="393,5,559,32"/>
+</map>

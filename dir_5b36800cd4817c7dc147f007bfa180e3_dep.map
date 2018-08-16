@@ -1,0 +1,38 @@
+<map id="nuttx/libc" name="nuttx/libc">
+<area shape="rect" id="node2" href="dir_46a18ea836d5c7501244722185c95937.html" title="aio" alt="" coords="3229,63,3301,111"/>
+<area shape="rect" id="node3" href="dir_81840b251607e6d4e3df0226e76842fd.html" title="audio" alt="" coords="3133,63,3205,111"/>
+<area shape="rect" id="node4" href="dir_a6e760130902843c7bd089783043528c.html" title="dirent" alt="" coords="3037,63,3109,111"/>
+<area shape="rect" id="node5" href="dir_f10e702949dee09a823bd538165c4148.html" title="dllfcn" alt="" coords="2941,63,3013,111"/>
+<area shape="rect" id="node6" href="dir_fa39c601fa16289a6ad22286d1faa454.html" title="fixedmath" alt="" coords="2838,63,2916,111"/>
+<area shape="rect" id="node7" href="dir_bffe9f8103619b39c518123a4ff9da8a.html" title="hex2bin" alt="" coords="2741,63,2813,111"/>
+<area shape="rect" id="node8" href="dir_04fcab4d9e8623b16261e8c24a93e5e7.html" title="inttypes" alt="" coords="2645,63,2717,111"/>
+<area shape="rect" id="node9" href="dir_a2de3133fd2fc6a23d824954a5598c63.html" title="libgen" alt="" coords="2549,63,2621,111"/>
+<area shape="rect" id="node10" href="dir_a7efb082f2fb542f06034c7f39aab5d6.html" title="locale" alt="" coords="2453,63,2525,111"/>
+<area shape="rect" id="node11" href="dir_3a39e8d7bba6e1d0a8cfcc1e137e4e27.html" title="machine" alt="" coords="2357,63,2429,111"/>
+<area shape="rect" id="node12" href="dir_853d32bfe2c4cd93bea83280e15eb85b.html" title="math" alt="" coords="2261,63,2333,111"/>
+<area shape="rect" id="node13" href="dir_f4bcee61d6744f430cc97eada8e0d907.html" title="misc" alt="" coords="2165,63,2237,111"/>
+<area shape="rect" id="node14" href="dir_9439fd7b57c9970dde42abc50e3461a0.html" title="modlib" alt="" coords="2069,63,2141,111"/>
+<area shape="rect" id="node15" href="dir_91a7389f5d8269bc4a70a7f5b6eb9d1a.html" title="net" alt="" coords="1973,63,2045,111"/>
+<area shape="rect" id="node16" href="dir_aeded053ac428b15cb5350518759bc70.html" title="netdb" alt="" coords="1877,63,1949,111"/>
+<area shape="rect" id="node17" href="dir_fc9add7eceec1762380ecffe0e685b9c.html" title="pthread" alt="" coords="1781,63,1853,111"/>
+<area shape="rect" id="node18" href="dir_7df235a91880c935f69dad86193c9fd1.html" title="queue" alt="" coords="1685,63,1757,111"/>
+<area shape="rect" id="node19" href="dir_c22c8370b0b9ef88215524f834fb05f8.html" title="sched" alt="" coords="1589,63,1661,111"/>
+<area shape="rect" id="node20" href="dir_486ff3c90f285bf9095621b2c93e9c79.html" title="semaphore" alt="" coords="1478,63,1564,111"/>
+<area shape="rect" id="node21" href="dir_96cec6527d93ce97da3edffe9302ff3a.html" title="signal" alt="" coords="1381,63,1453,111"/>
+<area shape="rect" id="node22" href="dir_be69205c4c5dd68b7db6333443c7279c.html" title="spawn" alt="" coords="1285,63,1357,111"/>
+<area shape="rect" id="node23" href="dir_8a2cd2f2d40f6a7acfa6503932069f61.html" title="stdio" alt="" coords="1189,63,1261,111"/>
+<area shape="rect" id="node24" href="dir_61262656e2431fda5fcb89e42b51cb78.html" title="stdlib" alt="" coords="1093,63,1165,111"/>
+<area shape="rect" id="node25" href="dir_f77a1f06658c157b933ae2f97dcbb7fd.html" title="string" alt="" coords="997,63,1069,111"/>
+<area shape="rect" id="node26" href="dir_c269cc2f273c97a010fac38a84d3c0d9.html" title="symtab" alt="" coords="901,63,973,111"/>
+<area shape="rect" id="node27" href="dir_5226058c53bd62e38d0c4126115222a4.html" title="syslog" alt="" coords="805,63,877,111"/>
+<area shape="rect" id="node28" href="dir_097618cbb236d537128d4ae0b8163781.html" title="termios" alt="" coords="709,63,781,111"/>
+<area shape="rect" id="node29" href="dir_a2703b68b90f325c11b935067eb3706d.html" title="time" alt="" coords="613,63,685,111"/>
+<area shape="rect" id="node30" href="dir_b142ddd025fef1e4587c0b37b0ecc95a.html" title="tls" alt="" coords="517,63,589,111"/>
+<area shape="rect" id="node31" href="dir_6b87ff2de3ec1da7827d2e71561943dd.html" title="unistd" alt="" coords="421,63,493,111"/>
+<area shape="rect" id="node32" href="dir_62436eb49e63c0b81e71ccaa9f409244.html" title="wchar" alt="" coords="325,63,397,111"/>
+<area shape="rect" id="node33" href="dir_1172d74d8ac0c4fcc4f7aadd5e1cbc86.html" title="wctype" alt="" coords="229,63,301,111"/>
+<area shape="rect" id="node34" href="dir_de0e228d1daa78e3f5e1fb69893c6a39.html" title="wqueue" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="node35" href="dir_712a67a05e2c7e3d3efa62f21567336c.html" title="zoneinfo" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="clust2" href="dir_5b36800cd4817c7dc147f007bfa180e3.html" alt="" coords="27,52,3408,121"/>
+<area shape="rect" id="clust1" href="dir_a087eb8c8217e7f024fc12aaad1b9d3e.html" title="nuttx" alt="" coords="16,16,3419,132"/>
+</map>

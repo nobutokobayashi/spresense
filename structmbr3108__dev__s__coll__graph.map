@@ -1,0 +1,9 @@
+<map id="mbr3108_dev_s" name="mbr3108_dev_s">
+<area shape="rect" id="node2" href="$structmbr3108__sensor__conf__s.html" title="mbr3108_sensor_conf_s" alt="" coords="5,96,168,123"/>
+<area shape="rect" id="node3" href="$structi2c__master__s.html" title="i2c_master_s" alt="" coords="193,96,292,123"/>
+<area shape="rect" id="node4" href="$structi2c__ops__s.html" title="i2c_ops_s" alt="" coords="202,5,283,32"/>
+<area shape="rect" id="node5" href="$structsem__s.html" title="sem_s" alt="" coords="347,5,408,32"/>
+<area shape="rect" id="node8" href="$structpollfd.html" title="pollfd" alt="" coords="416,96,469,123"/>
+<area shape="rect" id="node6" href="$structmbr3108__debug__conf__s.html" title="mbr3108_debug_conf_s" alt="" coords="493,96,652,123"/>
+<area shape="rect" id="node7" href="$structmbr3108__board__s.html" title="mbr3108_board_s" alt="" coords="677,96,803,123"/>
+</map>

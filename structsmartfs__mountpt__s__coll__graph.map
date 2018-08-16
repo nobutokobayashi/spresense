@@ -1,0 +1,11 @@
+<map id="smartfs_mountpt_s" name="smartfs_mountpt_s">
+<area shape="rect" id="node2" href="$structsmartfs__ofile__s.html" title="smartfs_ofile_s" alt="" coords="7,188,117,215"/>
+<area shape="rect" id="node3" href="$structsmartfs__entry__s.html" title="smartfs_entry_s" alt="" coords="5,96,120,123"/>
+<area shape="rect" id="node4" href="$structinode.html" title="inode" alt="" coords="200,188,253,215"/>
+<area shape="rect" id="node5" href="$unioninode__ops__u.html" title="inode_ops_u" alt="" coords="179,96,273,123"/>
+<area shape="rect" id="node6" href="$structmountpt__operations.html" title="mountpt_operations" alt="" coords="13,5,148,32"/>
+<area shape="rect" id="node7" href="$structfile__operations.html" title="file_operations" alt="" coords="173,5,280,32"/>
+<area shape="rect" id="node8" href="$structblock__operations.html" title="block_operations" alt="" coords="304,5,424,32"/>
+<area shape="rect" id="node9" href="$structsem__s.html" title="sem_s" alt="" coords="343,188,404,215"/>
+<area shape="rect" id="node10" href="$structsmart__format__s.html" title="smart_format_s" alt="" coords="429,188,541,215"/>
+</map>

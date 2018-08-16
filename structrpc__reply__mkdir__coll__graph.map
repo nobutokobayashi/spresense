@@ -1,0 +1,13 @@
+<map id="rpc_reply_mkdir" name="rpc_reply_mkdir">
+<area shape="rect" id="node2" href="$structrpc__reply__header.html" title="rpc_reply_header" alt="" coords="26,320,147,347"/>
+<area shape="rect" id="node3" href="$structrpc__auth__info.html" title="rpc_auth_info" alt="" coords="5,229,104,256"/>
+<area shape="rect" id="node4" href="$structMKDIR3resok.html" title="MKDIR3resok" alt="" coords="187,320,292,347"/>
+<area shape="rect" id="node5" href="$structwcc__data.html" title="wcc_data" alt="" coords="129,229,207,256"/>
+<area shape="rect" id="node6" href="$structwcc__attr.html" title="wcc_attr" alt="" coords="97,139,169,165"/>
+<area shape="rect" id="node7" href="$structnfsv3__time.html" title="nfsv3_time" alt="" coords="19,5,105,32"/>
+<area shape="rect" id="node9" href="$structnfs__fattr.html" title="nfs_fattr" alt="" coords="207,139,277,165"/>
+<area shape="rect" id="node8" href="$structnfs__uquad.html" title="nfs_uquad" alt="" coords="155,5,236,32"/>
+<area shape="rect" id="node10" href="$structnfsv3__spec.html" title="nfsv3_spec" alt="" coords="275,5,364,32"/>
+<area shape="rect" id="node11" href="$structfile__handle.html" title="file_handle" alt="" coords="339,229,423,256"/>
+<area shape="rect" id="node12" href="$structnfsfh.html" title="nfsfh" alt="" coords="356,139,407,165"/>
+</map>

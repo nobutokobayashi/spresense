@@ -1,0 +1,9 @@
+<map id="romfs_mountpt_s" name="romfs_mountpt_s">
+<area shape="rect" id="node2" href="$structromfs__file__s.html" title="romfs_file_s" alt="" coords="5,188,99,215"/>
+<area shape="rect" id="node3" href="$structinode.html" title="inode" alt="" coords="192,188,245,215"/>
+<area shape="rect" id="node4" href="$unioninode__ops__u.html" title="inode_ops_u" alt="" coords="171,96,265,123"/>
+<area shape="rect" id="node5" href="$structmountpt__operations.html" title="mountpt_operations" alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node6" href="$structfile__operations.html" title="file_operations" alt="" coords="165,5,272,32"/>
+<area shape="rect" id="node7" href="$structblock__operations.html" title="block_operations" alt="" coords="296,5,416,32"/>
+<area shape="rect" id="node8" href="$structsem__s.html" title="sem_s" alt="" coords="335,188,396,215"/>
+</map>

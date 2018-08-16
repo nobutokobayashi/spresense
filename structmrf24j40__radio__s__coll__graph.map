@@ -1,0 +1,12 @@
+<map id="mrf24j40_radio_s" name="mrf24j40_radio_s">
+<area shape="rect" id="node2" href="$structieee802154__txdesc__s.html" title="ieee802154_txdesc_s" alt="" coords="279,44,427,71"/>
+<area shape="rect" id="node3" href="$structieee802154__data__conf__s.html" title="ieee802154_data_conf_s" alt="" coords="6,7,173,33"/>
+<area shape="rect" id="node4" href="$structieee802154__addr__s.html" title="ieee802154_addr_s" alt="" coords="22,76,157,103"/>
+<area shape="rect" id="node5" href="$structieee802154__cca__s.html" title="ieee802154_cca_s" alt="" coords="288,157,419,184"/>
+<area shape="rect" id="node6" href="$structsem__s.html" title="sem_s" alt="" coords="323,208,384,235"/>
+<area shape="rect" id="node7" href="$structmrf24j40__lower__s.html" title="mrf24j40_lower_s" alt="" coords="291,259,415,285"/>
+<area shape="rect" id="node8" href="$structieee802154__radio__s.html" title="ieee802154_radio_s" alt="" coords="285,309,422,336"/>
+<area shape="rect" id="node9" href="$structspi__dev__s.html" title="spi_dev_s" alt="" coords="313,360,394,387"/>
+<area shape="rect" id="node10" href="$structspi__ops__s.html" title="spi_ops_s" alt="" coords="49,360,130,387"/>
+<area shape="rect" id="node11" href="$structieee802154__radiocb__s.html" title="ieee802154_radiocb_s" alt="" coords="278,411,429,437"/>
+</map>

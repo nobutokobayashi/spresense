@@ -1,0 +1,10 @@
+<map id="cxd56_pvtlog_s" name="cxd56_pvtlog_s">
+<area shape="rect" id="node2" href="$structcxd56__pvtlog__data__s.html" title="cxd56_pvtlog_data_s" alt="" coords="286,157,431,184"/>
+<area shape="rect" id="node3" href="$structcxd56__pvtlog__date__s.html" title="cxd56_pvtlog_date_s" alt="" coords="19,5,165,32"/>
+<area shape="rect" id="node4" href="$structcxd56__pvtlog__longitude__s.html" title="cxd56_pvtlog_longitude_s" alt="" coords="6,56,178,83"/>
+<area shape="rect" id="node5" href="$structcxd56__pvtlog__latitude__s.html" title="cxd56_pvtlog_latitude_s" alt="" coords="11,107,173,133"/>
+<area shape="rect" id="node6" href="$structcxd56__pvtlog__time__s.html" title="cxd56_pvtlog_time_s" alt="" coords="19,157,165,184"/>
+<area shape="rect" id="node7" href="$structcxd56__pvtlog__velocity__s.html" title="cxd56_pvtlog_velocity_s" alt="" coords="9,208,175,235"/>
+<area shape="rect" id="node8" href="$structcxd56__pvtlog__altitude__s.html" title="cxd56_pvtlog_altitude_s" alt="" coords="11,259,173,285"/>
+<area shape="rect" id="node9" href="$structcxd56__pvtlog__direction__s.html" title="cxd56_pvtlog_direction_s" alt="" coords="7,309,177,336"/>
+</map>
