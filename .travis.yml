@@ -1,0 +1,13 @@
+language: c
+
+addons:
+  apt:
+    packages:
+    - gperf
+    - flex
+    - bison
+    - genromfs
+    - pkg-config
+    - autoconf
+    - automake
+    - gcc-arm-none-eabi
