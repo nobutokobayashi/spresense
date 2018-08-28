@@ -1,0 +1,31 @@
+language: c
+
+addons:
+  apt:
+    packages:
+    - gperf
+    - flex
+    - bison
+    - genromfs
+    - pkg-config
+    - autoconf
+    - automake
+    - gcc-arm-none-eabi
+
+cache:
+  directories:
+  - $HOME/tools
+
+install:
+  - git clone https://bitbucket.org/nuttx/tools.git
+  - pushd tools/kconfig-frontends
+  - autoreconf -fi
+  - ./configure --prefix=/usr --enable-static --disable-shared --disable-mconf --disable-nconf --disable-gconf --disable-qconf
+  - make && sudo make install
+  - popd
+
+script:
+  - cd sdk
+  - make buildkernel KERNCONF=release
+  - tools/config.py default
+  - make
